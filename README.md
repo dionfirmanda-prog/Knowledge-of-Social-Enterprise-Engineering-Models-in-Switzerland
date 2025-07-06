@@ -21,25 +21,18 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 - **Langkah 4: Muat notebook Jupyter dan inisialisasi model**
 - **Langkah 5: Hasilkan kode menggunakan model IBM Granite**
 
-# Perkiraan durasi penyelesaian
+## Perkiraan durasi penyelesaian
 30 menit
 
 ## Hasil analisis
-![1000030067](https://github.com/user-attachments/assets/ffbe8ec0-c4e6-4046-a575-52bb7dedca60)
-![1000030066](https://github.com/user-attachments/assets/8a40c7f4-cf51-4646-9465-b1cb264e8764)
-![1000030065](https://github.com/user-attachments/assets/d3c2fd67-32c5-48dd-bba3-d6b6a036d3ad)
-![1000030064](https://github.com/user-attachments/assets/2d99c94a-1fcb-4146-bc4e-3db872506a82)
-![1000030063](https://github.com/user-attachments/assets/bbb1df65-b86d-423c-a800-f33aa71e5c82)
-![1000030056](https://github.com/user-attachments/assets/9ddbfc9c-aba4-423c-bb14-88f9a6ed97f5)
-![1000030046](https://github.com/user-attachments/assets/fe1505ea-7282-4e7f-bf9a-2b2f9b3abe72)
-![1000030042](https://github.com/user-attachments/assets/5c22e2d3-4031-4139-b276-7077d6a853c2)
-![1000030041](https://github.com/user-attachments/assets/6318a5b1-b870-43ce-9c38-82711299db46)
-![1000030040](https://github.com/user-attachments/assets/6bd82c4c-5d0b-4af7-86c7-3c840a1966a7)
-![1000030039](https://github.com/user-attachments/assets/0a074fb2-6db3-4997-a0f7-ab58244bc02b)
-![1000030035](https://github.com/user-attachments/assets/2a6cf669-4b10-48df-be08-55bc60742291)
-![1000030034](https://github.com/user-attachments/assets/84b84f68-eff2-433f-a37c-1ace334c4dc5)
-![1000030033](https://github.com/user-attachments/assets/8bb203d1-fd52-41b6-ad06-3ceb1baa88d5)
-![1000030029](https://github.com/user-attachments/assets/374821ef-703a-438e-88ed-318278bdaf69)
+![1000030252](https://github.com/user-attachments/assets/abfc7fba-1751-45bf-9330-6d6ac0e7586f)
+![1000030251](https://github.com/user-attachments/assets/4f48343b-7646-4404-9636-cbf5d2a8ead0)
+![1000030250](https://github.com/user-attachments/assets/ccdb981a-5278-443f-8c27-a51413c162b4)
+![1000030249](https://github.com/user-attachments/assets/19947054-7d5a-4c74-987c-b2c8d7586cfb)
+![1000030248](https://github.com/user-attachments/assets/7de28ba3-b22e-41d7-a5f1-133f3f866d10)
+![1000030247](https://github.com/user-attachments/assets/856d7434-0bf8-4635-9921-4a745c88eb35)
+![1000030246](https://github.com/user-attachments/assets/f406b8ed-dfb8-4495-94dd-a442f87b56e5)
+
 
 
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
@@ -66,25 +59,24 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 - Langkah 5: Hasilkan kode menggunakan **few-shot prompt**.
 - Langkah 6: **Optimalkan** kode yang dihasilkan AI.
 
-# Perkiraan durasi untuk menyelesaikan 
+## Perkiraan durasi untuk menyelesaikan 
 30 menit
 
 ## Hasil Analisis
-![1000030087](https://github.com/user-attachments/assets/ab6f181e-e2f3-480a-bffc-ddd6fbd24d27)
-![1000030086](https://github.com/user-attachments/assets/bd351e10-9b26-438c-adb4-bdb8a3dbde12)
-![1000030085](https://github.com/user-attachments/assets/c2df83f7-794c-420a-9104-83efa3b0ea60)
-![1000030084](https://github.com/user-attachments/assets/e4e5835c-f08c-4a98-9815-8111a10ecf2e)
-![1000030083](https://github.com/user-attachments/assets/4898d63a-6048-4403-9421-9ac49453b965)
-![1000030079](https://github.com/user-attachments/assets/b230d880-30fa-4786-be71-b84c18e413f8)
-![1000030082](https://github.com/user-attachments/assets/e9a997a7-2bac-4bb5-84b9-9bea3f5aeeb7)
-![1000030081](https://github.com/user-attachments/assets/83c6ffc7-0935-4d5e-968d-be3e9b4b91b7)
-![1000030080](https://github.com/user-attachments/assets/48455041-16c1-42a9-a049-5a435b6df394)
-![1000030078](https://github.com/user-attachments/assets/876dd90f-5b9d-4890-84c0-33952eaeb85c)
-![1000030077](https://github.com/user-attachments/assets/71cd960e-3923-411c-b626-59500ac6b817)
-![1000030076](https://github.com/user-attachments/assets/a4afcac9-33a5-4f5d-8834-a8487e2e6cdf)
-![1000030075](https://github.com/user-attachments/assets/07b112d0-5715-4fdc-9f7f-9de6c92d82e4)
-![1000030074](https://github.com/user-attachments/assets/76213b2f-d0c3-4e06-b047-9b214b504dbd)
-![1000030073](https://github.com/user-attachments/assets/eeb5fc70-bbfb-4993-bb48-364301ffab0a)
-![1000030069](https://github.com/user-attachments/assets/6e5be309-d0da-4a36-a310-cede33929ce1)
-![1000030068](https://github.com/user-attachments/assets/033641ef-e600-4b01-ace7-8960cd7b0d87)
-
+![1000030255](https://github.com/user-attachments/assets/7342070d-c9c7-45c5-b4b5-67fec3ca5fe5)
+![1000030256](https://github.com/user-attachments/assets/a834ddd1-362b-4abc-a2b7-e7fc7554b7e9)
+![1000030261](https://github.com/user-attachments/assets/92355a30-0c23-4097-b62c-86dc4a93745e)
+![1000030262](https://github.com/user-attachments/assets/ed4a4943-3adc-436b-a742-97f4fedc07ca)
+![1000030260](https://github.com/user-attachments/assets/80d172f0-2654-4e32-a75d-7ea5878df5a4)
+![1000030259](https://github.com/user-attachments/assets/157b0385-a3e6-46ad-bb47-e16bc1a1e7ad)
+![1000030258](https://github.com/user-attachments/assets/fbbeb26e-2ec9-4edf-a6c4-5eb7c8fa610f)
+![1000030257](https://github.com/user-attachments/assets/8677a144-aa61-4b9e-8300-b5a21364608d)
+![1000030263](https://github.com/user-attachments/assets/d9173e0b-4bc8-46d6-a5e0-dff7afe02d91)
+![1000030264](https://github.com/user-attachments/assets/421c4bd6-a738-4d31-9f76-554152877d3e)
+![1000030265](https://github.com/user-attachments/assets/e90d08c8-9ae4-4f3a-bf0f-e7a1fc3e3e15)
+![1000030266](https://github.com/user-attachments/assets/a0c56c88-5c32-4261-8911-c9775d2fccd7)
+![1000030267](https://github.com/user-attachments/assets/32380766-8ebd-4b41-b181-85a7897ba0cb)
+![1000030268](https://github.com/user-attachments/assets/c9058988-8b6f-451c-ac0f-7ef0b438429f)
+![1000030269](https://github.com/user-attachments/assets/103af214-5527-4002-b228-b6c7198aabd7)
+![1000030270](https://github.com/user-attachments/assets/b3e3e6e2-91a1-45ce-a230-add2c73d8264)
+![1000030271](https://github.com/user-attachments/assets/598eccec-3171-46b2-bcde-ff349a097046)
