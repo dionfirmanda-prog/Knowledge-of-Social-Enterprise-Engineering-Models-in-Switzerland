@@ -21,9 +21,25 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 - **Langkah 4: Muat notebook Jupyter dan inisialisasi model**
 - **Langkah 5: Hasilkan kode menggunakan model IBM Granite**
 
-## Perkiraan durasi penyelesaian
+# Perkiraan durasi penyelesaian
 30 menit
 
+## Hasil analisis
+![1000030067](https://github.com/user-attachments/assets/ffbe8ec0-c4e6-4046-a575-52bb7dedca60)
+![1000030066](https://github.com/user-attachments/assets/8a40c7f4-cf51-4646-9465-b1cb264e8764)
+![1000030065](https://github.com/user-attachments/assets/d3c2fd67-32c5-48dd-bba3-d6b6a036d3ad)
+![1000030064](https://github.com/user-attachments/assets/2d99c94a-1fcb-4146-bc4e-3db872506a82)
+![1000030063](https://github.com/user-attachments/assets/bbb1df65-b86d-423c-a800-f33aa71e5c82)
+![1000030056](https://github.com/user-attachments/assets/9ddbfc9c-aba4-423c-bb14-88f9a6ed97f5)
+![1000030046](https://github.com/user-attachments/assets/fe1505ea-7282-4e7f-bf9a-2b2f9b3abe72)
+![1000030042](https://github.com/user-attachments/assets/5c22e2d3-4031-4139-b276-7077d6a853c2)
+![1000030041](https://github.com/user-attachments/assets/6318a5b1-b870-43ce-9c38-82711299db46)
+![1000030040](https://github.com/user-attachments/assets/6bd82c4c-5d0b-4af7-86c7-3c840a1966a7)
+![1000030039](https://github.com/user-attachments/assets/0a074fb2-6db3-4997-a0f7-ab58244bc02b)
+![1000030035](https://github.com/user-attachments/assets/2a6cf669-4b10-48df-be08-55bc60742291)
+![1000030034](https://github.com/user-attachments/assets/84b84f68-eff2-433f-a37c-1ace334c4dc5)
+![1000030033](https://github.com/user-attachments/assets/8bb203d1-fd52-41b6-ad06-3ceb1baa88d5)
+![1000030029](https://github.com/user-attachments/assets/374821ef-703a-438e-88ed-318278bdaf69)
 
 
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
