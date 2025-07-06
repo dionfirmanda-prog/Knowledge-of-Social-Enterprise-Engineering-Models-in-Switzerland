@@ -99,7 +99,12 @@ Contoh pemrosesan data ke UI: dari teks deskriptif → menjadi kartu interaktif 
 
 3. Minta kode Python-nya untuk render buku sebagai kartu dengan Streamlit, Gradio, atau IPyWidgets.
 
-4. Membuat kode Python-nya dan ubah teks ini jadi tabel atau JSON.
+5. Membuat kode Python-nya dan ubah teks ini jadi tabel atau JSON.
+
+## Hasil Program
+![1000030252](https://github.com/user-attachments/assets/557b1eeb-97f9-4bdc-b3aa-e66e431ca5e2)
+![1000030251](https://github.com/user-attachments/assets/84752d67-b741-4c51-876f-d3dd1840d8e5)
+
 
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
 
@@ -112,8 +117,8 @@ Di lab ini, Anda akan menggunakan keluarga model IBM Granite Code yang dihosting
 
  ## **Persyaratan perangkat lunak** 
 Untuk menyelesaikan lab ini, Anda harus memiliki akses ke akun dengan Replicate untuk membuat panggilan inferensi model. Anda juga harus mendapatkan token API dari akun Replicate Anda, yang akan ditambahkan dengan aman sebagai rahasia Google Colab. Pemahaman terhadap Python tidaklah penting, tetapi dapat membantu untuk memahami kode yang dihasilkan. 
-## Tujuan
 
+## Tujuan
 Mengoptimalkan kode yang dihasilkan AI menggunakan model IBM Granite Code. 
 
 ## Langkah-Langkah Lab
@@ -128,33 +133,11 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi untuk menyelesaikan 
 30 menit
 
-## Hasil Analisis
-![1000030255](https://github.com/user-attachments/assets/7342070d-c9c7-45c5-b4b5-67fec3ca5fe5)
-![1000030256](https://github.com/user-attachments/assets/a834ddd1-362b-4abc-a2b7-e7fc7554b7e9)
-![1000030261](https://github.com/user-attachments/assets/92355a30-0c23-4097-b62c-86dc4a93745e)
-![1000030262](https://github.com/user-attachments/assets/ed4a4943-3adc-436b-a742-97f4fedc07ca)
-![1000030260](https://github.com/user-attachments/assets/80d172f0-2654-4e32-a75d-7ea5878df5a4)
-![1000030259](https://github.com/user-attachments/assets/157b0385-a3e6-46ad-bb47-e16bc1a1e7ad)
-![1000030258](https://github.com/user-attachments/assets/fbbeb26e-2ec9-4edf-a6c4-5eb7c8fa610f)
-![1000030257](https://github.com/user-attachments/assets/8677a144-aa61-4b9e-8300-b5a21364608d)
-![1000030263](https://github.com/user-attachments/assets/d9173e0b-4bc8-46d6-a5e0-dff7afe02d91)
-![1000030264](https://github.com/user-attachments/assets/421c4bd6-a738-4d31-9f76-554152877d3e)
-![1000030265](https://github.com/user-attachments/assets/e90d08c8-9ae4-4f3a-bf0f-e7a1fc3e3e15)
-![1000030266](https://github.com/user-attachments/assets/a0c56c88-5c32-4261-8911-c9775d2fccd7)
-![1000030267](https://github.com/user-attachments/assets/32380766-8ebd-4b41-b181-85a7897ba0cb)
-![1000030268](https://github.com/user-attachments/assets/c9058988-8b6f-451c-ac0f-7ef0b438429f)
-![1000030269](https://github.com/user-attachments/assets/103af214-5527-4002-b228-b6c7198aabd7)
-![1000030270](https://github.com/user-attachments/assets/b3e3e6e2-91a1-45ce-a230-add2c73d8264)
-![1000030271](https://github.com/user-attachments/assets/598eccec-3171-46b2-bcde-ff349a097046)
+## Hasil Program 
+![1000030271](https://github.com/user-attachments/assets/90e4b2e0-a4a3-4e12-8bbd-f3ac9caadddc)
+![1000030270](https://github.com/user-attachments/assets/e0aa5211-f9dd-4747-8a27-8af6a8b4bc8e)
+![1000030269](https://github.com/user-attachments/assets/5e7ca224-0d87-432d-9594-9a091bb4b9ee)
 
-## Hasil analisis
-![1000030252](https://github.com/user-attachments/assets/abfc7fba-1751-45bf-9330-6d6ac0e7586f)
-![1000030251](https://github.com/user-attachments/assets/4f48343b-7646-4404-9636-cbf5d2a8ead0)
-![1000030250](https://github.com/user-attachments/assets/ccdb981a-5278-443f-8c27-a51413c162b4)
-![1000030249](https://github.com/user-attachments/assets/19947054-7d5a-4c74-987c-b2c8d7586cfb)
-![1000030248](https://github.com/user-attachments/assets/7de28ba3-b22e-41d7-a5f1-133f3f866d10)
-![1000030247](https://github.com/user-attachments/assets/856d7434-0bf8-4635-9921-4a745c88eb35)
-![1000030246](https://github.com/user-attachments/assets/f406b8ed-dfb8-4495-94dd-a442f87b56e5)
 
 ## Kesimpulan
 Gambar ini adalah tangkapan layar dari antarmuka pengguna (kemungkinan dari Google Colab atau Jupyter Notebook di Google Colab, terlihat dari URL dan nama file .ipynb) yang menampilkan daftar buku dalam format kartu (card layout). Berikut adalah hasil analisisnya:
