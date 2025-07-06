@@ -24,6 +24,83 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi penyelesaian
 30 menit
 
+## Kesimpulan
+Gambar ini memperlihatkan bagian lain dari notebook yang berbeda (sd_learn_cgo_lab1.ipynb) dibanding sebelumnya (lab2). Berikut analisisnya:
+
+📄 Konten Teks dalam Gambar:
+
+Ini adalah deskripsi singkat beberapa novel klasik, kemungkinan digunakan sebagai data mentah atau sumber informasi yang akan diproses atau ditampilkan di lab2. Isi ringkasannya:
+
+1. The Great Gatsby
+
+Penulis: F. Scott Fitzgerald
+
+Tema: Kehidupan dekaden di era Roaring Twenties (Jay Gatsby dan Daisy Buchanan)
+
+
+
+2. Pride and Prejudice
+
+Penulis: Tidak disebutkan (tetapi diketahui: Jane Austen)
+
+Tema: Romansa Mary dan Elizabeth Bennet di era Regency Inggris
+
+
+
+3. The Hobbit
+
+Penulis: J.R.R. Tolkien
+
+Diterbitkan: 1937
+
+Genre: Fantasi
+
+
+
+4. The Lord of the Rings
+
+Penulis: J.R.R. Tolkien
+
+Genre: Fantasi epik
+
+
+
+5. Animal Farm
+
+Penulis: George Orwell
+
+Diterbitkan: 1945
+
+Genre: Satir politik terhadap Uni Soviet
+
+
+
+6. Brave New World
+
+Penulis: Aldous Huxley
+
+Diterbitkan: 1932
+
+Genre: Distopia fiksi ilmiah (deskripsi ini belum selesai di tangkapan layar)
+
+🔗 Keterkaitan dengan Gambar Sebelumnya (lab2)
+
+Gambar ini (lab1) kemungkinan merupakan:
+
+Sumber data atau deskripsi teks yang dipakai untuk membuat tampilan daftar buku seperti di lab2.
+
+Contoh pemrosesan data ke UI: dari teks deskriptif → menjadi kartu interaktif dengan judul, penulis, dan harga.
+
+💡 Saran:
+
+1. Minta bantuan untuk mengonversi data deskriptif ini jadi struktur JSON atau DataFrame.
+
+2. Menambahkan fitur search, filter, atau urutkan di tampilan kartu.
+
+3. Minta kode Python-nya untuk render buku sebagai kartu dengan Streamlit, Gradio, atau IPyWidgets.
+
+4. Membuat kode Python-nya dan ubah teks ini jadi tabel atau JSON.
+
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
 
 ## **Pendahuluan** 
