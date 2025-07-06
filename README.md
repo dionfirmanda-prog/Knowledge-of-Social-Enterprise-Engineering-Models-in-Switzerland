@@ -24,6 +24,10 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi penyelesaian
 30 menit
 
+## Hasil Program
+![1000030252](https://github.com/user-attachments/assets/557b1eeb-97f9-4bdc-b3aa-e66e431ca5e2)
+![1000030251](https://github.com/user-attachments/assets/84752d67-b741-4c51-876f-d3dd1840d8e5)
+
 ## Kesimpulan
 Gambar ini memperlihatkan bagian lain dari notebook yang berbeda (sd_learn_cgo_lab1.ipynb) dibanding sebelumnya (lab2). Berikut analisisnya:
 
@@ -100,10 +104,6 @@ Contoh pemrosesan data ke UI: dari teks deskriptif → menjadi kartu interaktif 
 3. Minta kode Python-nya untuk render buku sebagai kartu dengan Streamlit, Gradio, atau IPyWidgets.
 
 5. Membuat kode Python-nya dan ubah teks ini jadi tabel atau JSON.
-
-## Hasil Program
-![1000030252](https://github.com/user-attachments/assets/557b1eeb-97f9-4bdc-b3aa-e66e431ca5e2)
-![1000030251](https://github.com/user-attachments/assets/84752d67-b741-4c51-876f-d3dd1840d8e5)
 
 
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
