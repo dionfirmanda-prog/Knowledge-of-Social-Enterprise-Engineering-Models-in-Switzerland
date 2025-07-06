@@ -1,26 +1,25 @@
-# **Lab Exercise 2: Optimize AI-Generated Code Using IBM Granite Models**
+# **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
+Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
-## **Introduction**  
-This lab focuses on optimizing AI generated code using few-shot prompt techniques with the IBM Granite Code model on Google Colab to optimize code generation quality. Few-shot prompting allows the model to draw from multiple examples, enabling more accurate and nuanced outputs compared to the initial zero-shot prompt approach. 
+## Pendahuluan
+Di lab ini, Anda akan menggunakan model IBM Granite untuk membuat kode Python untuk skenario tertentu. Anda akan menerapkan pengetahuan Anda tentang teknik prompting untuk menentukan dan menjalankan prompt untuk membuat kode menggunakan IBM Granite. 
 
-This lab builds on Lab 1, which focused on generating code using Granite Code models, by shifting the focus to refining the model output through few-shot prompting techniques. The exercise focuses on optimizing UI components to create a more intuitive interface for an online bookstore, demonstrating how incorporating examples can enhance the quality and precision of the generated code. 
+## Persyaratan perangkat lunak 
+Untuk menyelesaikan lab ini, Anda memerlukan akses ke akun Replicate, yang memungkinkan Anda menggunakan model AI untuk melakukan tugas. Anda juga memerlukan token API dari akun Replicate Anda. Token API seperti kunci digital yang memungkinkan lab terhubung dengan aman ke akun Replicate Anda. Token ini akan ditambahkan dengan aman ke lingkungan Google Colab Anda sehingga lab dapat berjalan dengan benar. Meskipun Anda tidak perlu tahu Python untuk mengikutinya, keakraban dengannya dapat membantu Anda lebih memahami kode yang dibuat selama lab. 
 
-In this lab, you’ll use the IBM Granite Code model family hosted on Replicate to optimize Python code that enhances the design of the landing page for an online bookstore.
+## Tujuan 
+Setelah menyelesaikan lab ini, Anda seharusnya dapat: 
 
-## **Software requirements**  
-To complete this lab, you must have access to an account with Replicate to make model inference calls. You must also obtain the API token from your Replicate account, which will be securely added as a Google Colab secret. Familiarity with Python is not necessary but can be helpful for understanding the generated code. 
-## Objective
+Menggunakan model IBM Granite untuk pembuatan kode dan tugas pemrograman.
 
-Optimize AI-generated code using IBM Granite Code models. 
+ ## Langkah-langkah lab
+Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 
-## Lab Steps
-This lab requires you to complete the following steps: 
-- Step 1: Create a **GitHub account**.
-- Step 2: Create a **Replicate account**.
-- Step 3: Sign up for **Google Colab**.
-- Step 4: Load the **Jupyter notebook** and initialize the model.
-- Step 5: Generate code using a **few-shot prompt**.
-- Step 6: **Optimize** the AI-generated code.
+- **Langkah 1: Buat akun GitHub**
+- **Langkah 2: Buat akun Replicate**
+- **Langkah 3: Daftar ke Google Colab**
+- **Langkah 4: Muat notebook Jupyter dan inisialisasi model**
+- **Langkah 5: Hasilkan kode menggunakan model IBM Granite**
 
-## Estimated duration to complete 
-30 minutes
+## Perkiraan durasi penyelesaian
+30 menit
