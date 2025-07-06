@@ -66,5 +66,25 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 - Langkah 5: Hasilkan kode menggunakan **few-shot prompt**.
 - Langkah 6: **Optimalkan** kode yang dihasilkan AI.
 
-## Perkiraan durasi untuk menyelesaikan 
+# Perkiraan durasi untuk menyelesaikan 
 30 menit
+
+## Hasil Analisis
+![1000030087](https://github.com/user-attachments/assets/ab6f181e-e2f3-480a-bffc-ddd6fbd24d27)
+![1000030086](https://github.com/user-attachments/assets/bd351e10-9b26-438c-adb4-bdb8a3dbde12)
+![1000030085](https://github.com/user-attachments/assets/c2df83f7-794c-420a-9104-83efa3b0ea60)
+![1000030084](https://github.com/user-attachments/assets/e4e5835c-f08c-4a98-9815-8111a10ecf2e)
+![1000030083](https://github.com/user-attachments/assets/4898d63a-6048-4403-9421-9ac49453b965)
+![1000030079](https://github.com/user-attachments/assets/b230d880-30fa-4786-be71-b84c18e413f8)
+![1000030082](https://github.com/user-attachments/assets/e9a997a7-2bac-4bb5-84b9-9bea3f5aeeb7)
+![1000030081](https://github.com/user-attachments/assets/83c6ffc7-0935-4d5e-968d-be3e9b4b91b7)
+![1000030080](https://github.com/user-attachments/assets/48455041-16c1-42a9-a049-5a435b6df394)
+![1000030078](https://github.com/user-attachments/assets/876dd90f-5b9d-4890-84c0-33952eaeb85c)
+![1000030077](https://github.com/user-attachments/assets/71cd960e-3923-411c-b626-59500ac6b817)
+![1000030076](https://github.com/user-attachments/assets/a4afcac9-33a5-4f5d-8834-a8487e2e6cdf)
+![1000030075](https://github.com/user-attachments/assets/07b112d0-5715-4fdc-9f7f-9de6c92d82e4)
+![1000030074](https://github.com/user-attachments/assets/76213b2f-d0c3-4e06-b047-9b214b504dbd)
+![1000030073](https://github.com/user-attachments/assets/eeb5fc70-bbfb-4993-bb48-364301ffab0a)
+![1000030069](https://github.com/user-attachments/assets/6e5be309-d0da-4a36-a310-cede33929ce1)
+![1000030068](https://github.com/user-attachments/assets/033641ef-e600-4b01-ace7-8960cd7b0d87)
+
