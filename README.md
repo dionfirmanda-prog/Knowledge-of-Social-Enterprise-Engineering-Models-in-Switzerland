@@ -24,17 +24,6 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi penyelesaian
 30 menit
 
-## Hasil analisis
-![1000030252](https://github.com/user-attachments/assets/abfc7fba-1751-45bf-9330-6d6ac0e7586f)
-![1000030251](https://github.com/user-attachments/assets/4f48343b-7646-4404-9636-cbf5d2a8ead0)
-![1000030250](https://github.com/user-attachments/assets/ccdb981a-5278-443f-8c27-a51413c162b4)
-![1000030249](https://github.com/user-attachments/assets/19947054-7d5a-4c74-987c-b2c8d7586cfb)
-![1000030248](https://github.com/user-attachments/assets/7de28ba3-b22e-41d7-a5f1-133f3f866d10)
-![1000030247](https://github.com/user-attachments/assets/856d7434-0bf8-4635-9921-4a745c88eb35)
-![1000030246](https://github.com/user-attachments/assets/f406b8ed-dfb8-4495-94dd-a442f87b56e5)
-
-
-
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
 
 ## **Pendahuluan** 
@@ -80,3 +69,74 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ![1000030269](https://github.com/user-attachments/assets/103af214-5527-4002-b228-b6c7198aabd7)
 ![1000030270](https://github.com/user-attachments/assets/b3e3e6e2-91a1-45ce-a230-add2c73d8264)
 ![1000030271](https://github.com/user-attachments/assets/598eccec-3171-46b2-bcde-ff349a097046)
+
+## Hasil analisis
+![1000030252](https://github.com/user-attachments/assets/abfc7fba-1751-45bf-9330-6d6ac0e7586f)
+![1000030251](https://github.com/user-attachments/assets/4f48343b-7646-4404-9636-cbf5d2a8ead0)
+![1000030250](https://github.com/user-attachments/assets/ccdb981a-5278-443f-8c27-a51413c162b4)
+![1000030249](https://github.com/user-attachments/assets/19947054-7d5a-4c74-987c-b2c8d7586cfb)
+![1000030248](https://github.com/user-attachments/assets/7de28ba3-b22e-41d7-a5f1-133f3f866d10)
+![1000030247](https://github.com/user-attachments/assets/856d7434-0bf8-4635-9921-4a745c88eb35)
+![1000030246](https://github.com/user-attachments/assets/f406b8ed-dfb8-4495-94dd-a442f87b56e5)
+
+## Kesimpulan
+Gambar ini adalah tangkapan layar dari antarmuka pengguna (kemungkinan dari Google Colab atau Jupyter Notebook di Google Colab, terlihat dari URL dan nama file .ipynb) yang menampilkan daftar buku dalam format kartu (card layout). Berikut adalah hasil analisisnya:
+
+📋 Konten yang Ditampilkan:
+
+Terdapat daftar buku, masing-masing dengan informasi berikut:
+
+Judul Buku
+
+Nama Penulis
+
+Harga Buku
+
+
+Contoh isi:
+
+1. The Hobbit
+
+Author: Author Name 3
+
+Price: $30.00
+
+
+
+2. The Lord of the Rings
+
+Author: Author Name 4
+
+Price: $40.00
+
+
+
+3. Animal Farm
+
+Author: Author Name 5
+
+Price: $50.00
+
+
+
+4. Brave New World (sebagian terlihat di bawah)
+
+🧩 Komponen UI yang Terlihat:
+
+Kartu (card) untuk setiap buku (desain modern, responsif).
+
+Simbol filter di sebelah kiri atas (mungkin untuk menyaring daftar buku).
+
+UI Google Colab:
+
+Nama file: sd_learn_cgo_lab2.ipynb
+
+Status RAM dan Disk di bagian atas.
+
+Mode tampilan notebook (ada toolbar colab).
+
+💡 Interpretasi Kemungkinan:
+
+Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data buku dalam format visual berbasis komponen frontend (kemungkinan menggunakan Gradio, Streamlit, atau IPyWidgets di Jupyter Notebook).
+
+Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
