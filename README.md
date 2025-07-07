@@ -215,4 +215,4 @@ Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data
 
 Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
 
-Wassalamu'alaikum warahmatullahi wa barakatuh.
+Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
