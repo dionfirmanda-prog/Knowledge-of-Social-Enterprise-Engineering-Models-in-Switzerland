@@ -6,9 +6,9 @@ Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 ## Tim pengerjaan
 ![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
 
-Nama peserta: Dion Firmanda
-Jurusan: D4 Teknik Komputer
-Institusi: Politeknik Elektronika Negeri Surabaya-ITS
+1. Nama peserta: Dion Firmanda
+2. Jurusan: D4 Teknik Komputer
+3. Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Laporan Kerja Capstone Project:
 Judul: Knowledge of Social Enterprise Engineering Models in Switzerland
