@@ -281,7 +281,53 @@ with torch.no_grad():
 response = tokenizer.decode(output[0], skip_special_tokens=True)
 print(response)
 
-Langkah 4: 
+Langkah 4: Tokenize the Input
+
+![1000030811](https://github.com/user-attachments/assets/86d1579b-d4ea-4d0c-93af-6da2f6f95541)
+
+Dari gambar ini terlihat bahwa Saya melanjutkan proses dengan tokenisasi input yang telah dibuat dalam format chat, sebelum dikirim ke model.
+
+🧠 Analisis Kode:
+
+input_tokens = tokenizer(chat, return_tensors="pt")
+
+✅ Apa yang Terjadi?
+
+Saya mengubah teks percakapan (chat) menjadi token angka dengan tokenizer().
+
+return_tensors="pt" berarti hasil tokenisasi dikembalikan dalam bentuk tensor PyTorch, sehingga bisa langsung digunakan oleh model (.generate()).
+
+🔄 Alur Program Hingga Titik Ini:
+
+Tahapan	Status	Penjelasan Singkat
+
+Import library dan model/tokenizer	✅ Selesai	Sudah terimport dan dimuat dari Hugging Face
+Menentukan prompt percakapan	✅ Selesai	Format {"role": "user", "content": ...} benar
+Menerapkan chat template	✅ Selesai	Mengubah chat menjadi prompt lengkap
+Tokenisasi input chat	✅ Selesai	Konversi ke token ID tensor (input_tokens)
+
+✅ Langkah Selanjutnya (Rekomendasi):
+
+Saya sekarang bisa memanggil model untuk menghasilkan output berdasarkan input_tokens. Tambahkan kode seperti ini:
+
+with torch.no_grad():
+    output = model.generate(**input_tokens, max_new_tokens=100)
+
+response = tokenizer.decode(output[0], skip_special_tokens=True)
+print(response)
+
+max_new_tokens=100 → jumlah token maksimum untuk respons.
+
+skip_special_tokens=True → menghilangkan token seperti <pad>, <s>, dll.
+
+📝 Kesimpulan:
+
+Program Saya sudah hampir siap menjalankan inferensi LLM.
+
+Semua langkah — dari input chat, formatting, hingga tokenisasi — sudah benar dan sesuai standar pustaka 🤖
+
+Langkah berikutnya: panggil model.generate() lalu tampilkan hasil decode.
+
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
