@@ -11,7 +11,7 @@ Jurusan: D4 Teknik Komputer
 Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Laporan Kerja Capstone Project:
-Judul: Pembelajaran tentang Model IBM Granite-3.0: Panduan untuk Pengaturan, Penggunaan Model, dan Penerapan tentang Rekayasa Wirausaha Sosial di Swiss berbasis Teknologi AI
+Judul: Studi Kasus tentang Model IBM Granite-3.0: Panduan untuk Pengaturan dan Penggunaan Model
 
 Langkah 1: Setup (Install Required Libraries)
 
@@ -597,5 +597,10 @@ Mode tampilan notebook (ada toolbar colab).
 Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data buku dalam format visual berbasis komponen frontend (kemungkinan menggunakan Gradio, Streamlit, atau IPyWidgets di Jupyter Notebook).
 
 Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
+
+## Referensi
+1. https://www.analyticsvidhya.com/blog/2024/10/ibm-granite-3-0-model/
+2. https://github.com/niit-ibm/lp1-cgo-lab1 
+3. https://github.com/niit-ibm/lp1-cgo-lab2
 
 Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
