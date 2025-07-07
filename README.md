@@ -11,66 +11,93 @@ Jurusan: D4 Teknik Komputer
 Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Laporan Kerja Capstone Project:
-Judul: Time series sales forecasting with IBM Granite
+Judul: IBM Granite-3.0 Model: A Guide to Model Setup and Usage
 
-Langkah 1: Set up your environment
-1.1: Install the TSFM library
-![1000030805](https://github.com/user-attachments/assets/361cab31-f8f9-44db-9ff3-6b710edab67b)
+Langkah 1: Setup (Install Required Libraries)
+![1000030807](https://github.com/user-attachments/assets/41fbc449-862c-4c94-9992-3fb8fe36bf6a)
+![1000030806](https://github.com/user-attachments/assets/4e2351bb-fa55-41be-806c-1ef2c6e554dd)
 
-Gambar yang Saya lampirkan adalah tangkapan layar dari Google Colab, sedang menjalankan perintah instalasi Python menggunakan pip. Berikut analisisnya:
+Berdasarkan gambar kedua yang Saya unggah, berikut ini analisis program yang sedang Saya jalankan di Google Colab:
 
-📌 Kode yang Dieksekusi:
+📌 Isi Program:
 
-!pip install "granite-tsfm[notebook]"
+# Install required libraries
+!pip install torch torchvision torchaudio
+!pip install accelerate
+!pip install git+https://github.com/...
 
-📌 Deskripsi:
+🧩 Penjelasan Baris per Baris:
 
-Saya sedang mencoba menginstal library Python bernama granite-tsfm dengan opsi tambahan [notebook] — ini biasanya menambahkan dependensi untuk bekerja di lingkungan notebook (seperti Google Colab).
+1. !pip install torch torchvision torchaudio
 
-Baris sebelumnya terdapat komentar # Install the tsfm library and a u..., kemungkinan untuk memberi penjelasan bagi pengguna atau dokumentasi.
+Menginstal PyTorch dan modul pendukung:
 
-🧩 Proses yang Terlihat:
+torch: library utama untuk machine learning dan deep learning.
 
-Google Colab menampilkan:
+torchvision: untuk mengelola dataset dan transformasi gambar.
 
-Installing build dependencies
-Getting requirements to build wheel
-Preparing metadata (pyproject.toml)
-
-Artinya:
-
-Colab sedang menyiapkan environment dan membangun dependensi berdasarkan file pyproject.toml.
-
-Ini umum ketika sebuah library memerlukan build dari source, bukan hanya download dari precompiled wheel.
-
-⚠️ Masalah yang Mungkin Terjadi:
-
-1. Lama saat instalasi – Jika terlalu lama, bisa jadi karena:
-
-Ukuran dependensi besar
-
-Server PyPI lambat
-
-Atau library sedang membangun komponen native (C++/Rust)
+torchaudio: untuk memproses data audio menggunakan PyTorch.
 
 
 
-2. Garis-garis panjang (di bawah output) menunjukkan ada proses tertunda atau error yang tidak sepenuhnya ditampilkan — biasanya ini tampilan rendering incomplete akibat bug UI atau proses hang.
 
-✅ Saran:
+2. !pip install accelerate
 
-Tunggu beberapa menit — jika tidak selesai, coba jalankan ulang cell-nya.
+Library dari Hugging Face untuk mempermudah eksekusi model secara efisien, mendukung CPU, GPU, dan multi-device training.
 
-Jika masih gagal:
 
-Tambahkan --upgrade pip sebelum install:
 
-!pip install --upgrade pip
-!pip install "granite-tsfm[notebook]"
+3. !pip install git+https://github.com/...
 
-Atau aktifkan log lengkap dengan:
+Baris ini belum terlihat lengkap, tetapi biasanya digunakan untuk menginstal library langsung dari repositori GitHub.
 
-!pip install -v "granite-tsfm[notebook]"
+⚙️ Proses Instalasi:
+
+Teks output menunjukkan:
+
+Beberapa library seperti torch, torchvision, dsb. sudah terinstal sebelumnya (Requirement already satisfied).
+
+Sedang mengunduh dependensi CUDA dari NVIDIA seperti:
+
+nvidia-cuda-runtime
+
+nvidia-cublas
+
+nvidia-cudnn
+
+nvidia-cufft
+
+dan lainnya...
+
+
+
+📦 Ini menandakan sistem sedang menyiapkan backend CUDA (untuk menjalankan PyTorch di GPU).
+
+⚠️ Catatan Penting:
+
+Proses ini bisa memakan waktu lama karena file CUDA cukup besar.
+
+Google Colab biasanya sudah punya CUDA, tapi kadang tambahan versi/komponen diunduh ulang untuk kompatibilitas.
+
+Jika koneksi lambat, proses Downloading... bisa tampak stuck.
+
+✅ Rekomendasi Jika Proses Lama atau Gagal:
+
+1. Pastikan runtime-nya menggunakan GPU:
+
+Klik Runtime → Change runtime type → Pilih GPU.
+
+
+
+2. Tambahkan flag untuk mempercepat:
+
+Misalnya --no-cache-dir untuk menghindari simpanan lokal:
+
+!pip install --no-cache-dir accelerate
+
+
+
+3. Tunggu hingga seluruh dependensi selesai terunduh dan terpasang.
 
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
