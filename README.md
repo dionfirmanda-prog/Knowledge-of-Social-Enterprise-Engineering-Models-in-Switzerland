@@ -285,6 +285,36 @@ Langkah 4: Tokenize the Input
 
 ![1000030811](https://github.com/user-attachments/assets/86d1579b-d4ea-4d0c-93af-6da2f6f95541)
 
+Langkah 5: Generate a Response
+
+![1000030812](https://github.com/user-attachments/assets/8810752a-0481-4ca1-a881-3bab294fadc1)
+
+Langkah 6: Decode and Print the Output
+
+![1000030813](https://github.com/user-attachments/assets/9787b9ec-2129-4160-8c44-6695a8004b08)
+
+![1000030814](https://github.com/user-attachments/assets/7b00fd2d-ff59-4bb4-83bd-a2fb6079cd6e)
+
+Langkah 7: Text Summarization
+![1000030815](https://github.com/user-attachments/assets/1002b684-33c6-4a17-8645-8e04166c9dd9)
+
+![1000030816](https://github.com/user-attachments/assets/81105b33-94cf-483b-884b-ca85bc1b9e5a)
+
+Langkah 8: Question Answering
+![1000030817](https://github.com/user-attachments/assets/1ab9328c-ccfe-43ef-9f1c-011825571717)
+
+![1000030818](https://github.com/user-attachments/assets/45619940-cc04-4e7a-909e-1912e040b946)
+
+Langkah 9: Code-Related Tasks
+![1000030819](https://github.com/user-attachments/assets/2bcb929e-df89-4f94-8c7c-a5be3b8e8cc6)
+
+## Kesimpulan Capstone Project
+Granite-3.0-BB-Instruct adalah model yang paling aman menurut grafik ini.
+
+Model ini memberikan proteksi terbaik terhadap konten berbahaya, diskriminatif, atau eksplisit.
+
+Mistral-7B-Instruct membutuhkan peningkatan keamanan karena cenderung membiarkan lebih banyak konten berisiko lolos.
+
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
