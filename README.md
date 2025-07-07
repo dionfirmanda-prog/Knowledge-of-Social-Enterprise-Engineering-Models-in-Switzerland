@@ -1,6 +1,7 @@
 ![1000030327](https://github.com/user-attachments/assets/aefd7f9c-a64f-4501-af8b-48898f997217)
 
 Assalamualaikum warahmatullahi wa barakatuh.
+Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 
 ## Tim pengerjaan 
 Nama peserta: Dion Firmanda
@@ -215,4 +216,3 @@ Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data
 Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
 
 Wassalamu'alaikum warahmatullahi wa barakatuh.
-Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
