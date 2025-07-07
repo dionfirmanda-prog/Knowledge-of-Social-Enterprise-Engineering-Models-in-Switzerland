@@ -3,14 +3,74 @@
 Assalamualaikum warahmatullahi wa barakatuh.
 Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 
-## Tim pengerjaan 
+## Tim pengerjaan
+![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
+
 Nama peserta: Dion Firmanda
 Jurusan: D4 Teknik Komputer
 Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
-## Project website:
-https://dion.firmanda.000webhostapp.com/
-(Masih tahap pengerjaan)
+## Laporan Kerja Capstone Project:
+Judul: Time series sales forecasting with IBM Granite
+
+Langkah 1: Set up your environment
+1.1: Install the TSFM library
+![1000030805](https://github.com/user-attachments/assets/361cab31-f8f9-44db-9ff3-6b710edab67b)
+
+Gambar yang Saya lampirkan adalah tangkapan layar dari Google Colab, sedang menjalankan perintah instalasi Python menggunakan pip. Berikut analisisnya:
+
+📌 Kode yang Dieksekusi:
+
+!pip install "granite-tsfm[notebook]"
+
+📌 Deskripsi:
+
+Anda sedang mencoba menginstal library Python bernama granite-tsfm dengan opsi tambahan [notebook] — ini biasanya menambahkan dependensi untuk bekerja di lingkungan notebook (seperti Google Colab).
+
+Baris sebelumnya terdapat komentar # Install the tsfm library and a u..., kemungkinan untuk memberi penjelasan bagi pengguna atau dokumentasi.
+
+🧩 Proses yang Terlihat:
+
+Google Colab menampilkan:
+
+Installing build dependencies
+Getting requirements to build wheel
+Preparing metadata (pyproject.toml)
+
+Artinya:
+
+Colab sedang menyiapkan environment dan membangun dependensi berdasarkan file pyproject.toml.
+
+Ini umum ketika sebuah library memerlukan build dari source, bukan hanya download dari precompiled wheel.
+
+⚠️ Masalah yang Mungkin Terjadi:
+
+1. Lama saat instalasi – Jika terlalu lama, bisa jadi karena:
+
+Ukuran dependensi besar
+
+Server PyPI lambat
+
+Atau library sedang membangun komponen native (C++/Rust)
+
+
+
+2. Garis-garis panjang (di bawah output) menunjukkan ada proses tertunda atau error yang tidak sepenuhnya ditampilkan — biasanya ini tampilan rendering incomplete akibat bug UI atau proses hang.
+
+✅ Saran:
+
+Tunggu beberapa menit — jika tidak selesai, coba jalankan ulang cell-nya.
+
+Jika masih gagal:
+
+Tambahkan --upgrade pip sebelum install:
+
+!pip install --upgrade pip
+!pip install "granite-tsfm[notebook]"
+
+Atau aktifkan log lengkap dengan:
+
+!pip install -v "granite-tsfm[notebook]"
 
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
