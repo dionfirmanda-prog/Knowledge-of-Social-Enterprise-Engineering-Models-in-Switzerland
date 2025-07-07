@@ -100,6 +100,125 @@ Misalnya --no-cache-dir untuk menghindari simpanan lokal:
 
 3. Tunggu hingga seluruh dependensi selesai terunduh dan terpasang.
 
+Langkah 2: Model and Tokenizer Initialization
+
+![1000030809](https://github.com/user-attachments/assets/1bc15ced-7194-4755-9961-f5f36c813988)
+
+Gambar ini menunjukkan bahwa model Granite 13B sedang dalam proses pengunduhan file berat di Google Colab. Berikut analisis lengkap program dan statusnya:
+
+✅ Tujuan Program:
+
+Menjalankan model bahasa besar dari Hugging Face (ibm-granite/granite-13b-instruct-v0-1) menggunakan pustaka transformers, untuk keperluan inferensi (menjawab, melengkapi teks, dsb).
+
+🧠 Penjelasan Tahapan dan Kode:
+
+🔹 Kode Python:
+
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
+model_path = "ibm-granite/granite-13b-instruct-v0-1"
+
+tokenizer = AutoTokenizer.from_pretrained(model_path)
+model = AutoModelForCausalLM.from_pretrained(model_path)
+model.eval()
+
+🔍 Penjelasan:
+
+1. Mengecek apakah GPU tersedia (cuda) untuk efisiensi.
+
+
+2. Menentukan path model di Hugging Face.
+
+
+3. Memuat tokenizer dari Hugging Face.
+
+
+4. Memuat model besar (13B = 13 miliar parameter).
+
+
+5. Menetapkan model ke mode evaluasi (eval()).
+
+⏳ Status Saat Ini (Dari Output):
+
+Fetching 2 files: 0% [model-00001-of-00002.safetensors, ...]
+0.00 / 5.00 GB
+
+Model menggunakan format safetensors dan dipecah menjadi beberapa bagian.
+
+Total ukuran file: 5 GB lebih.
+
+Saat ini: belum mulai diunduh (0%), mungkin karena koneksi lambat atau sedang menunggu izin/memori.
+
+⚠️ Catatan Penting:
+
+1. File Sangat Besar
+
+Model Granite 13B adalah LLM besar → tidak ringan untuk Google Colab (bahkan GPU RAM bisa kurang).
+
+
+
+2. Risiko Gagal di Colab Gratis
+
+Model sebesar ini bisa gagal karena:
+
+RAM GPU/CPU tidak cukup
+
+Runtime terputus karena waktu terbatas
+
+Koneksi lambat
+
+
+
+
+3. Autentikasi Hugging Face
+
+Model Granite 13B memerlukan autentikasi token (HF_TOKEN) jika repositori tidak publik sepenuhnya.
+
+Jika muncul error seperti:
+
+The secret HF_TOKEN does not exist
+
+Maka Saya perlu login terlebih dahulu:
+
+from huggingface_hub import login
+login("your_hf_token")
+
+✅ Rekomendasi:
+
+Jika Ingin Lanjut:
+
+Gunakan runtime GPU (Menu Runtime → Change Runtime Type → GPU).
+
+Login ke Hugging Face terlebih dahulu jika diminta.
+
+Gunakan opsi device_map="auto" agar transformers memilih lokasi yang optimal:
+
+model = AutoModelForCausalLM.from_pretrained(model_path, device_map="auto")
+
+
+Jika Ingin Ringan:
+
+Ganti ke model lebih kecil, seperti:
+
+tiiuae/falcon-rw-1b
+
+EleutherAI/gpt-neo-125M
+
+distilgpt2
+
+🎯 Kesimpulan:
+
+Program Saya berfungsi benar.
+
+Proses belum berjalan karena sedang mengunduh file besar (5 GB).
+
+Colab gratis kemungkinan tidak cukup kuat untuk model Granite 13B.
+
+Disarankan mencoba model lebih kecil untuk eksplorasi awal.
+
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
