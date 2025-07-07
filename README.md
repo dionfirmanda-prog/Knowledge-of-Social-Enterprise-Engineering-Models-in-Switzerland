@@ -2,6 +2,7 @@
 
 ## Project website:
 https://dion.firmanda.000webhostapp.com/
+(In progress)
 
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
