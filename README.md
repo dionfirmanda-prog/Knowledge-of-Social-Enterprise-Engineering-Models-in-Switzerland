@@ -315,7 +315,7 @@ Model ini memberikan proteksi terbaik terhadap konten berbahaya, diskriminatif, 
 
 Mistral-7B-Instruct membutuhkan peningkatan keamanan karena cenderung membiarkan lebih banyak konten berisiko lolos.
 
-## Harapan Saya
+## Harapan Saya pada Proyek Berdampak
 Berikut adalah analisis dampak COVID-19 terhadap penjualan serta bagaimana teknologi AI dapat mempermudah pembuatan laporan penjualan sebagai solusi strategis:
 
 🦠 Dampak COVID-19 Terhadap Penjualan
