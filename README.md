@@ -13,6 +13,13 @@ Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 ## Laporan Kerja Capstone Project:
 Judul: Knowledge of Social Enterprise Engineering Models in Switzerland
 
+Tujuan Pembelajaran:
+1. Memahami tentang arsitektur model Granite 3.0 dan aplikasi perusahaannya.
+2. Mempelajari cara memanfaatkan Granite-3.0-2B-Instruct untuk tugas-tugas seperti ringkasan, pembuatan kode, dan Tanya Jawab.
+3. Mengeksplorasi inovasi IBM dalam teknik pelatihan yang meningkatkan kinerja dan efisiensi Granite 3.0.
+4. Memahami komitmen IBM terhadap transparansi sumber terbuka dan pengembangan AI yang bertanggung jawab.
+5. Menemukan peran Granite 3.0 dalam memajukan solusi AI yang aman dan hemat biaya di seluruh industri.
+
 Langkah 1: Setup (Install Required Libraries)
 
 ![1000030807](https://github.com/user-attachments/assets/41fbc449-862c-4c94-9992-3fb8fe36bf6a)
