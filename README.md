@@ -219,6 +219,69 @@ Colab gratis kemungkinan tidak cukup kuat untuk model Granite 13B.
 
 Disarankan mencoba model lebih kecil untuk eksplorasi awal.
 
+Langkah 3: Input Format for Instruction-based Queries
+
+![1000030810](https://github.com/user-attachments/assets/99e55af7-853b-4c36-acf8-fdf78fe0d7ad)
+
+Gambar yang Saya tampilkan menunjukkan kelanjutan dari notebook Python sebelumnya yang kini sudah membentuk prompt percakapan (chat) dan sedang menyiapkan input untuk model bahasa. Berikut analisis detailnya:
+
+✅ Tujuan Program:
+
+Mempersiapkan input dalam format percakapan (chat) agar bisa dikirim ke model bahasa seperti granite-13b-instruct-v0-1 dari IBM, yang mendukung chat-style prompting.
+
+🧠 Penjelasan Kode:
+
+📌 Bagian 1 – Mendefinisikan Chat:
+
+chat = [
+    {"role": "user", "content": "pertanyaan kamu di sini"}
+]
+
+Ini membuat daftar percakapan (chat history).
+
+Format "role": "user" digunakan untuk menandai siapa yang berbicara (bisa juga "assistant").
+
+"content" adalah isi pesan, misalnya: "Apa itu machine learning?"
+
+
+📌 Bagian 2 – Menggunakan Template Tokenizer:
+
+chat = tokenizer.apply_chat_template(chat, return_tensors="pt")
+
+apply_chat_template() adalah fungsi dari tokenizer modern (seperti yang mendukung model instruct/chat).
+
+Ini akan mengonversi format percakapan di atas menjadi input teks yang disesuaikan dengan template (misalnya menambahkan token seperti <|user|>, <|assistant|>).
+
+return_tensors="pt" mengembalikan hasil dalam format tensor PyTorch.
+
+🔄 Alur Selanjutnya (Belum Terlihat di Gambar):
+
+Biasanya setelah baris ini, Anda akan:
+
+output = model.generate(chat, max_new_tokens=100)
+
+Lalu hasilnya didekodekan:
+
+tokenizer.decode(output[0], skip_special_tokens=True)
+
+✅ Kesimpulan Analisis:
+
+Elemen	Status	Penjelasan
+
+Input chat	✅ Siap	Format JSON sudah sesuai untuk model chat (role + content).
+Tokenisasi dengan template	✅ Benar	Menggunakan .apply_chat_template() — sesuai dengan tokenizer modern.
+Penggunaan PyTorch	✅ Sesuai	Output dalam bentuk tensor (pt) yang cocok untuk model generate().
+
+🎯 Saran:
+
+Jika ingin menguji model setelah ini, Saya bisa lanjutkan dengan:
+
+with torch.no_grad():
+    output = model.generate(chat, max_new_tokens=100)
+response = tokenizer.decode(output[0], skip_special_tokens=True)
+print(response)
+
+Langkah 4: 
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
