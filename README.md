@@ -1,5 +1,10 @@
 ![1000030327](https://github.com/user-attachments/assets/aefd7f9c-a64f-4501-af8b-48898f997217)
 
+## Tim pengerjaan 
+Nama peserta: Dion Firmanda
+Jurusan: D4 Teknik Komputer
+Institusi: Politeknik Elektronika Negeri Surabaya-ITS
+
 ## Project website:
 https://dion.firmanda.000webhostapp.com/
 (Masih tahap pengerjaan)
