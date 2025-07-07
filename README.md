@@ -22,7 +22,7 @@ Berdasarkan gambar kedua yang Saya unggah, berikut ini analisis program yang sed
 
 📌 Isi Program:
 
-# Install required libraries
+Install required libraries:
 !pip install torch torchvision torchaudio
 !pip install accelerate
 !pip install git+https://github.com/...
