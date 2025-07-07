@@ -25,7 +25,7 @@ Gambar yang Saya lampirkan adalah tangkapan layar dari Google Colab, sedang menj
 
 📌 Deskripsi:
 
-Anda sedang mencoba menginstal library Python bernama granite-tsfm dengan opsi tambahan [notebook] — ini biasanya menambahkan dependensi untuk bekerja di lingkungan notebook (seperti Google Colab).
+Saya sedang mencoba menginstal library Python bernama granite-tsfm dengan opsi tambahan [notebook] — ini biasanya menambahkan dependensi untuk bekerja di lingkungan notebook (seperti Google Colab).
 
 Baris sebelumnya terdapat komentar # Install the tsfm library and a u..., kemungkinan untuk memberi penjelasan bagi pengguna atau dokumentasi.
 
