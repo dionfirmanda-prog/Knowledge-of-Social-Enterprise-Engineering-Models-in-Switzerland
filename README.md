@@ -18,7 +18,7 @@ Langkah 1: Setup (Install Required Libraries)
 ![1000030807](https://github.com/user-attachments/assets/41fbc449-862c-4c94-9992-3fb8fe36bf6a)
 ![1000030806](https://github.com/user-attachments/assets/4e2351bb-fa55-41be-806c-1ef2c6e554dd)
 
-Berdasarkan gambar kedua yang Saya unggah, berikut ini analisis program yang sedang Saya jalankan di Google Colab:
+Berdasarkan gambar pertama dan kedua yang Saya unggah, berikut ini analisis program yang sedang Saya jalankan di Google Colab:
 
 📌 Isi Program:
 
