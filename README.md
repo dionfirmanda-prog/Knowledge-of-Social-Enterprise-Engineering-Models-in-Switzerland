@@ -320,14 +320,6 @@ max_new_tokens=100 → jumlah token maksimum untuk respons.
 
 skip_special_tokens=True → menghilangkan token seperti <pad>, <s>, dll.
 
-📝 Kesimpulan:
-
-Program Saya sudah hampir siap menjalankan inferensi LLM.
-
-Semua langkah — dari input chat, formatting, hingga tokenisasi — sudah benar dan sesuai standar pustaka 🤖
-
-Langkah berikutnya: panggil model.generate() lalu tampilkan hasil decode.
-
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
