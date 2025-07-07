@@ -14,6 +14,7 @@ Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 Judul: IBM Granite-3.0 Model: A Guide to Model Setup and Usage
 
 Langkah 1: Setup (Install Required Libraries)
+
 ![1000030807](https://github.com/user-attachments/assets/41fbc449-862c-4c94-9992-3fb8fe36bf6a)
 ![1000030806](https://github.com/user-attachments/assets/4e2351bb-fa55-41be-806c-1ef2c6e554dd)
 
