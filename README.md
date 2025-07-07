@@ -1,6 +1,4 @@
 ![1000030327](https://github.com/user-attachments/assets/aefd7f9c-a64f-4501-af8b-48898f997217)
-![1000030583](https://github.com/user-attachments/assets/48c2c6d2-c54c-430a-aa47-8a87df63892d)
-
 
 # **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
