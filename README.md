@@ -11,7 +11,7 @@ Jurusan: D4 Teknik Komputer
 Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Laporan Kerja Capstone Project:
-Judul: IBM Granite-3.0 Model: A Guide to Model Setup and Usage
+Judul: Learning about IBM Granite-3.0 Model: A Guide to Model Setup and Usage
 
 Langkah 1: Setup (Install Required Libraries)
 
