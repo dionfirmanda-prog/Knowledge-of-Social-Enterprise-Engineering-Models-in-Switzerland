@@ -11,7 +11,7 @@ Jurusan: D4 Teknik Komputer
 Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Laporan Kerja Capstone Project:
-Judul: Learning about IBM Granite-3.0 Model: A Guide to Model Setup and Usage
+Judul: Pembelajaran tentang Model IBM Granite-3.0: Panduan untuk Pengaturan, Penggunaan Model, dan Penerapan tentang Rekayasa Wirausaha Sosial di Swiss berbasis Teknologi AI
 
 Langkah 1: Setup (Install Required Libraries)
 
@@ -314,6 +314,86 @@ Granite-3.0-BB-Instruct adalah model yang paling aman menurut grafik ini.
 Model ini memberikan proteksi terbaik terhadap konten berbahaya, diskriminatif, atau eksplisit.
 
 Mistral-7B-Instruct membutuhkan peningkatan keamanan karena cenderung membiarkan lebih banyak konten berisiko lolos.
+
+## Harapan Saya
+Berikut adalah analisis dampak COVID-19 terhadap penjualan serta bagaimana teknologi AI dapat mempermudah pembuatan laporan penjualan sebagai solusi strategis:
+
+🦠 Dampak COVID-19 Terhadap Penjualan
+
+Pandemi COVID-19 menyebabkan perubahan besar dalam perilaku konsumen dan operasional bisnis. Dampaknya antara lain:
+
+📉 Penurunan Penjualan
+
+Banyak bisnis, terutama sektor ritel, pariwisata, dan restoran, mengalami penurunan omzet drastis.
+
+Rantai pasok terganggu, menyebabkan kekurangan barang dan keterlambatan pengiriman.
+
+
+🛒 Perubahan Pola Konsumsi
+
+Konsumen beralih ke belanja online dan layanan digital.
+
+Permintaan meningkat untuk produk kebersihan, makanan, dan layanan pengantaran.
+
+
+💡 Adaptasi Bisnis
+
+Bisnis dipaksa beralih ke digital, menggunakan e-commerce dan platform digital.
+
+Perlu pemantauan cepat terhadap performa penjualan dan respons pasar.
+
+🤖 Peran AI dalam Mempermudah Laporan Penjualan
+
+Teknologi AI (Artificial Intelligence) menawarkan berbagai solusi untuk mengelola dan menganalisis data penjualan secara otomatis dan cerdas.
+
+✅ 1. Otomatisasi Laporan Penjualan
+
+AI dapat mengambil data dari berbagai sumber (POS, e-commerce, spreadsheet) dan menyusunnya secara real-time.
+
+Laporan seperti tren penjualan harian, mingguan, atau bulanan bisa dibuat otomatis, tanpa proses manual yang memakan waktu.
+
+
+✅ 2. Analisis Prediktif
+
+Dengan machine learning, AI dapat memprediksi tren penjualan ke depan, misalnya berdasarkan musim, event, atau data historis.
+
+Membantu dalam perencanaan stok dan strategi pemasaran.
+
+
+✅ 3. Deteksi Anomali
+
+AI mampu mendeteksi penurunan penjualan yang tidak biasa, misalnya karena kesalahan input, produk bermasalah, atau gangguan sistem.
+
+Memberi peringatan dini bagi manajemen untuk segera bertindak.
+
+
+✅ 4. Visualisasi Interaktif
+
+AI bisa menghasilkan dashboard interaktif (misalnya lewat tools seperti Power BI + AI atau Google Looker Studio) yang memudahkan pemantauan performa penjualan secara visual dan instan.
+
+
+✅ 5. Rekomendasi Strategis
+
+Sistem AI bisa memberi rekomendasi produk mana yang harus dipromosikan, kapan waktu terbaik untuk diskon, dan bagaimana meningkatkan retensi pelanggan.
+
+🧾 Contoh Implementasi Nyata
+
+Fitur AI	Manfaat	Tools Contoh
+
+Otomatisasi laporan	Hemat waktu, akurat	Google Sheets + AI plugin
+Prediksi penjualan	Perencanaan lebih baik	Python + Prophet
+Analisis pelanggan	Segmentasi dan retensi	CRM + Machine Learning
+Visualisasi realtime	Keputusan cepat	Power BI / Tableau
+
+📝 Kesimpulan
+
+Pandemi COVID-19 telah mempercepat digitalisasi bisnis. Untuk tetap kompetitif, perusahaan perlu mengandalkan AI untuk menyusun, menganalisis, dan menginterpretasi laporan penjualan secara otomatis. Dengan demikian, perusahaan:
+
+Bisa bertindak cepat terhadap perubahan pasar.
+
+Menghemat waktu dan biaya operasional.
+
+Meningkatkan akurasi dan efektivitas dalam pengambilan keputusan bisnis.
 
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
