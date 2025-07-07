@@ -328,7 +328,7 @@ Semua langkah — dari input chat, formatting, hingga tokenisasi — sudah benar
 
 Langkah berikutnya: panggil model.generate() lalu tampilkan hasil decode.
 
-# **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
+## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
 ## Pendahuluan
