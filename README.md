@@ -1,5 +1,3 @@
-![1000030327](https://github.com/user-attachments/assets/aefd7f9c-a64f-4501-af8b-48898f997217)
-
 Assalamualaikum warahmatullahi wa barakatuh.
 
 ## Tim pengerjaan
