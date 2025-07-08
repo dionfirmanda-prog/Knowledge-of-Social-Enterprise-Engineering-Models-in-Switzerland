@@ -26,15 +26,15 @@ Tugas Pendahuluan 3: Membuat akun IBM SkillsBuild: https://skills.yourlearning.i
 
 ![1000031380](https://github.com/user-attachments/assets/1c4221ba-d5c3-4c79-9917-c032361f711b)
 
-Tugas Pendahuluan 4: Membuat akun Replicate: 
+Tugas Pendahuluan 4: Membuat akun Replicate: https://replicate.com/
 
 ![1000031382](https://github.com/user-attachments/assets/679179cf-5c47-4c73-b5b3-1687a0534442)
 
-Tugas Pendahuluan 5: Membuat akun Google Colab:
+Tugas Pendahuluan 5: Membuat akun Google Colab: https://colab.research.google.com/drive/1RiIBE2MR8vEe2cblyLumtB6p_X2X0OWG?authuser=0
 
 ![1000031383](https://github.com/user-attachments/assets/bfc9a4c4-a041-4f34-98c5-ce324637709f)
 
-Tugas Pendahuluan 6: Membuat akun Github:
+Tugas Pendahuluan 6: Membuat akun Github: https://github.com/dionfirmanda-prog/Knowledge-of-Social-Enterprise-Engineering-Models-in-Switzerland
 
 ![1000031387](https://github.com/user-attachments/assets/a3f031b0-a3c3-4649-8205-b7b0d159bd3a)
 
