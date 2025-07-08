@@ -10,6 +10,10 @@ Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 2. Jurusan: D4 Teknik Komputer
 3. Institusi: Politeknik Elektronika Negeri Surabaya-ITS
 
+## Presentasi Kami
+
+https://github.com/user-attachments/assets/0852fd8f-5336-4252-8e70-38aba3dd2bca
+
 ## Laporan Kerja Capstone Project:
 Judul: Knowledge of Social Enterprise Engineering Models in Switzerland
 
