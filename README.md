@@ -14,6 +14,8 @@ Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 
 https://github.com/user-attachments/assets/0852fd8f-5336-4252-8e70-38aba3dd2bca
 
+Swiss dikenal karena infrastruktur sosial dan ekonominya yang kuat, dan ekosistem wirausaha sosialnya mencerminkan kekuatan ini. Negara ini memadukan inovasi bisnis, tanggung jawab sosial, dan tata kelola yang terdesentralisasi, sehingga menghasilkan berbagai model Rekayasa Wirausaha Sosial (SEE).
+
 ## Laporan Kerja Capstone Project:
 Judul: Knowledge of Social Enterprise Engineering Models in Switzerland
 
