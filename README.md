@@ -36,6 +36,10 @@ Tugas Pendahuluan 6: Membuat akun Github:
 
 ![1000031387](https://github.com/user-attachments/assets/a3f031b0-a3c3-4649-8205-b7b0d159bd3a)
 
+Tugas Pendahuluan 7: Membuat akun LinkedIn: https://www.linkedin.com/in/dion-firmanda-3b1861373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+![1000031606](https://github.com/user-attachments/assets/0b6e2561-2eca-4459-96a5-4a5ea6167daf)
+
 ## Slide Presentasi untuk Capstone Project
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
