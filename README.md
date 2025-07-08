@@ -10,9 +10,25 @@ Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Pro
 
 Akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
 
+![1000031381](https://github.com/user-attachments/assets/85966c0f-b571-466c-9fe8-c4072f2689bc)
+
+
 Akun Credly: https://www.credly.com/users/dion-firmanda.6525f296
 
+![1000031379](https://github.com/user-attachments/assets/30e275f4-997d-4ba4-8918-0c5581bcb10e)
+
+
 Akun IBM SkillsBuild: https://skills.yourlearning.ibm.com/
+
+![1000031380](https://github.com/user-attachments/assets/1c4221ba-d5c3-4c79-9917-c032361f711b)
+
+Akun Replicate: 
+
+![1000031382](https://github.com/user-attachments/assets/679179cf-5c47-4c73-b5b3-1687a0534442)
+
+Akun Google Colab:
+
+![1000031383](https://github.com/user-attachments/assets/bfc9a4c4-a041-4f34-98c5-ce324637709f)
 
 ## Slide Presentasi untuk Capstone Project
 
