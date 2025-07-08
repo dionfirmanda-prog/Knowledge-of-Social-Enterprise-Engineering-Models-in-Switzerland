@@ -30,6 +30,10 @@ Akun Google Colab:
 
 ![1000031383](https://github.com/user-attachments/assets/bfc9a4c4-a041-4f34-98c5-ce324637709f)
 
+Akun Github:
+
+![1000031387](https://github.com/user-attachments/assets/a3f031b0-a3c3-4649-8205-b7b0d159bd3a)
+
 ## Slide Presentasi untuk Capstone Project
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
