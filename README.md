@@ -7,6 +7,8 @@ Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Pro
 
 Akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
 
+Akun Credly: https://www.credly.com/users/dion-firmanda.6525f296
+
 ## Slide Presentasi untuk Capstone Project
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
