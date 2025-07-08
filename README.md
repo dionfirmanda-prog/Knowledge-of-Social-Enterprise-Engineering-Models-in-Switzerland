@@ -32,6 +32,8 @@ Tujuan Pembelajaran:
 4. Memahami komitmen IBM terhadap transparansi sumber terbuka dan pengembangan AI yang bertanggung jawab.
 5. Menemukan peran Granite 3.0 dalam memajukan solusi AI yang aman dan hemat biaya di seluruh industri.
 
+## Hasil Program Capstone Project
+
 Langkah 1: Setup (Install Required Libraries)
 
 ![1000030807](https://github.com/user-attachments/assets/41fbc449-862c-4c94-9992-3fb8fe36bf6a)
@@ -360,7 +362,7 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi penyelesaian
 30 menit
 
-## Hasil Program
+## Hasil Program Lab1
 ![1000030252](https://github.com/user-attachments/assets/557b1eeb-97f9-4bdc-b3aa-e66e431ca5e2)
 ![1000030251](https://github.com/user-attachments/assets/84752d67-b741-4c51-876f-d3dd1840d8e5)
 
@@ -469,7 +471,7 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ## Perkiraan durasi untuk menyelesaikan 
 30 menit
 
-## Hasil Program 
+## Hasil Program Lab2
 ![1000030271](https://github.com/user-attachments/assets/90e4b2e0-a4a3-4e12-8bbd-f3ac9caadddc)
 ![1000030270](https://github.com/user-attachments/assets/e0aa5211-f9dd-4747-8a27-8af6a8b4bc8e)
 ![1000030269](https://github.com/user-attachments/assets/5e7ca224-0d87-432d-9594-9a091bb4b9ee)
