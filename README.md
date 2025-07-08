@@ -6,6 +6,10 @@ Assalamualaikum warahmatullahi wa barakatuh.
 ## Tim pengerjaan
 ![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
 
+![1000031533](https://github.com/user-attachments/assets/f902293a-d6bd-427b-bba3-8767658d2b1c)
+
+![1000031512](https://github.com/user-attachments/assets/e036e5c0-4a11-407d-8c15-93fd6be0412c)
+
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
 Tugas Pendahuluan 1: Membuat akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
