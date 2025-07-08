@@ -1,19 +1,13 @@
 ![1000030327](https://github.com/user-attachments/assets/aefd7f9c-a64f-4501-af8b-48898f997217)
 
 Assalamualaikum warahmatullahi wa barakatuh.
-Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 
 ## Tim pengerjaan
 ![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
 
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
-Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
-
-1. Nama peserta: Dion Firmanda
-2. Jurusan: D4 Teknik Komputer
-3. Institusi: Politeknik Elektronika Negeri Surabaya-ITS
-4. CV Saya: [Dion Firmanda - Resume.pdf](https://github.com/user-attachments/files/21112236/Dion.Firmanda.-.Resume.pdf)
+Akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
 
 
 ## Presentasi Kami
@@ -543,6 +537,5 @@ Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook
 1. https://www.analyticsvidhya.com/blog/2024/10/ibm-granite-3-0-model/
 2. https://github.com/niit-ibm/lp1-cgo-lab1 
 3. https://github.com/niit-ibm/lp1-cgo-lab2
-4. https://rentonesia.com/
 
 Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
