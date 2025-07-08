@@ -9,6 +9,8 @@ Om Swastiastu, Namo Buddhaya, Salam Kebajikan.
 1. Nama peserta: Dion Firmanda
 2. Jurusan: D4 Teknik Komputer
 3. Institusi: Politeknik Elektronika Negeri Surabaya-ITS
+4. CV Saya: [Dion Firmanda - Resume.pdf](https://github.com/user-attachments/files/21112236/Dion.Firmanda.-.Resume.pdf)
+
 
 ## Presentasi Kami
 
