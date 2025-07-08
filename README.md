@@ -11,6 +11,7 @@ Akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
 
+## Analisis Presentasi
 Model Knowledge of Social Enterprise Engineering (KSEE) di Swiss dalam konteks ekonomi yang tumbuh untuk manajemen bencana merupakan pendekatan inovatif yang menggabungkan kewirausahaan sosial, rekayasa sistem, dan manajemen pengetahuan untuk mengatasi tantangan sosial, termasuk bencana alam dan krisis kemanusiaan. Swiss, sebagai negara maju dengan ekosistem inovasi yang kuat, telah menerapkan model ini untuk mendorong solusi berkelanjutan terhadap bencana dan krisis melalui kolaborasi lintas sektor.
 
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
