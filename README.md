@@ -23,6 +23,8 @@ Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Pro
 6. Latihan Lab1 (Selesai)
 7. Latihan Lab2 (Selesai)
 8. Tugas Capstone Project (Selesai)
+9. Upload ke Twibbonize (Selesai)
+10. Share badge ke LinkedIn (Selesai)
 
 ## Tugas Pendahuluan (Class Preparation)
 
