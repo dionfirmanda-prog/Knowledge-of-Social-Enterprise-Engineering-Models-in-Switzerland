@@ -21,7 +21,7 @@ Asal Instansi: Politeknik Elektronika Negeri Surabaya-ITS (Akreditasi Unggul)
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
 ## Penyelesaian Tes
-1. Tugas Persiapan (Selesai)
+1. Tugas Pendahuluan (Class Preparation) (Selesai)
 2. Pre-test Code (Selesai)
 3. Post-test Code (Selesai)
 4. Pre-test Materi 2 (Selesai)
