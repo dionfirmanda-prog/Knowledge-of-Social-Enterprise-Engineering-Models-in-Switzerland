@@ -49,6 +49,142 @@ https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
 ## Analisis Presentasi
 Model Knowledge of Social Enterprise Engineering (KSEE) di Swiss dalam konteks ekonomi yang tumbuh untuk manajemen bencana merupakan pendekatan inovatif yang menggabungkan kewirausahaan sosial, rekayasa sistem, dan manajemen pengetahuan untuk mengatasi tantangan sosial, termasuk bencana alam dan krisis kemanusiaan. Swiss, sebagai negara maju dengan ekosistem inovasi yang kuat, telah menerapkan model ini untuk mendorong solusi berkelanjutan terhadap bencana dan krisis melalui kolaborasi lintas sektor.
 
+## Kode Program Capstone Project
+class Mahasiswa:
+def __init__(self, nm, no_induk):
+  self.nama = str(nm);
+  self.nim = str(no_induk);
+
+def getNama(self):
+  return self.nama;
+
+def getNim(self):
+  return self.nim;
+
+def setNama(self, nm):
+  self.nama = nm;
+
+def setNim(self, no_induk):
+  self.nim = no_induk;
+
+DftrMhs = {};
+loop = True;
+
+print("===================================");
+print("=         Daftar Mahasiswa        =");
+print("===================================");
+print("= # MENU                          =");
+print("= 1. Tambah Mahasiswa             =");
+print("= 2. Hapus Mahasiswa              =");
+print("= 3. Tampilkan Semua Mahasiswa    =");
+print("= 4. Cari Mahasiswa               =");
+print("= 5. Edit Nama Mahasiswa          =");
+print("= 6. Edit Nim Mahasiswa           =");
+print("= 7. Jumlah Total Mahasiswa       =");
+print("= 0. Keluar                       =");
+print("===================================");
+
+while(loop):
+print("\n\n");
+ menu = int(input("Masukan menu : "));
+
+if menu == 1:
+  nama = str(input("Masukan nama : "));
+  nim = str(input("Masukan nim : "));
+  mhs = Mahasiswa(nama, nim);
+  DftrMhs[nim] = mhs;
+elif menu == 2:
+  nim = str(input("Masukan nim : "));
+  if(nim in DftrMhs):
+   del DftrMhs[nim];
+  else:
+   print("Data tidak ditemukan!!!");
+elif menu == 3:
+  for i in DftrMhs:
+   print("Nama :", DftrMhs[i].getNama());
+   print("Nim :", DftrMhs[i].getNim());
+elif menu == 4:
+  nim = str(input("Masukan nim : "));
+  if(nim in DftrMhs):
+   print("Nama : ", DftrMhs[nim].getNama());
+   print("Nim : ", DftrMhs[nim].getNim());
+  else:
+   print("Data tidak ditemukan!!!");
+elif menu == 5:
+  nim = str(input("Masukan nim : "));
+  if(nim in DftrMhs):
+   namaBaru = str(input("Masukan Nama Baru : "));
+   DftrMhs[nim].setNama(namaBaru);
+  else:
+   print("Data tidak ditemukan!!!");
+elif menu == 6:
+  nim = str(input("Masukan nim : "));
+  if(nim in DftrMhs):
+   nimBaru = str(input("Masukan Nim Baru : "));
+   DftrMhs[nim].setNim(nimBaru);
+   mhs = DftrMhs[nim];
+   DftrMhs[nimBaru] = mhs;
+   del DftrMhs[nim];
+  else:
+   print("Data tidak ditemukan!!!");
+elif menu == 7:
+  print("Jumlah Mahasiswa : ", len(DftrMhs));
+elif menu == 0:
+  loop = False;
+else:
+
+  print("XXXX");
+  
+## Penjelasan tentang Capstone Project
+
+![1000031731](https://github.com/user-attachments/assets/c651cbd7-99de-4b7a-adb6-5a5d59f1aa7a)
+
+Proyek ini adalah aplikasi manajemen data mahasiswa sederhana berbasis teks, yang dikembangkan menggunakan bahasa pemrograman Python di lingkungan Jupyter Notebook.
+
+📝 Fungsi Utama Aplikasi:
+
+Aplikasi ini menyediakan menu interaktif untuk:
+
+1. Menambah mahasiswa (input nama dan NIM)
+
+
+2. Menghapus mahasiswa berdasarkan NIM
+
+
+3. Menampilkan semua data mahasiswa
+
+
+4. Mencari mahasiswa berdasarkan NIM
+
+
+5. Mengedit nama mahasiswa
+
+
+6. Mengedit NIM mahasiswa
+
+
+7. Menampilkan total jumlah mahasiswa
+
+
+8. Keluar dari aplikasi
+
+
+
+🎯 Tujuan Proyek:
+
+Melatih logika pemrograman dasar seperti:
+
+1. Input/output
+
+2. List dan struktur data
+
+3. Perulangan (while)
+
+4. Percabangan (if-else)
+
+
+Proyek ini cocok untuk pemula sebagai latihan CRUD (Create, Read, Update, Delete) sederhana di Python.
+
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
