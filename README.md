@@ -46,7 +46,7 @@ Tugas Pendahuluan 7: Membuat akun LinkedIn: https://www.linkedin.com/in/dion-fir
 
 ![1000031606](https://github.com/user-attachments/assets/0b6e2561-2eca-4459-96a5-4a5ea6167daf)
 
-Tugas Pendahuluan 8: Membuat akun zoom workplace 
+Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
 
 ![1000031899](https://github.com/user-attachments/assets/618628f8-5897-40ea-89ee-c34abc684d1a)
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
