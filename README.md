@@ -10,7 +10,7 @@ Assalamualaikum warahmatullahi wa barakatuh.
 
 ![1000031512](https://github.com/user-attachments/assets/e036e5c0-4a11-407d-8c15-93fd6be0412c)
 
-![1000031678](https://github.com/user-attachments/assets/c6f24532-ae1d-415e-a177-d3791cc1ca2b)
+![BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite](https://github.com/user-attachments/assets/2ff01afa-471a-4e75-89e2-d6613e374015)
 
 Nama Saya: Dion Firmanda 
 
