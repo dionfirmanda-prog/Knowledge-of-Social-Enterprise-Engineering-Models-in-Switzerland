@@ -61,6 +61,8 @@ Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
 ![1000031899](https://github.com/user-attachments/assets/618628f8-5897-40ea-89ee-c34abc684d1a)
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
 
+## Judul Capstone Project: Sistem Informasi Manajemen Sekolah untuk Pendataan Mahasiswa Guna mendapatkan Makanan Sehat Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab
+
 ## Slide Presentasi untuk Capstone Project
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
