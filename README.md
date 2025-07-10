@@ -61,7 +61,8 @@ Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
 ![1000031899](https://github.com/user-attachments/assets/618628f8-5897-40ea-89ee-c34abc684d1a)
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
 
-## Judul Capstone Project: Sistem Informasi Manajemen Sekolah untuk Pendataan Siswa Guna mendapatkan Makanan Sehat Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab
+## Judul Capstone Project: 
+Sistem Informasi Manajemen Sekolah untuk Pendataan Siswa Guna mendapatkan Makanan Sehat Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab
 
 ## Slide Presentasi untuk Capstone Project
 
@@ -156,7 +157,7 @@ Elemen KSEE dalam SIMS ini:
 Sistem ini dapat menjadi solusi inovatif untuk intervensi gizi berbasis data. Dengan menggabungkan kekuatan AI (IBM & Google Colab) dan kerangka sosial KSEE, sekolah tidak hanya menjadi tempat belajar, tetapi juga pusat pemberdayaan kesehatan anak-anak. Disarankan untuk memulai pilot project di sekolah negeri yang telah memiliki sistem digital dasar dan menjalin kemitraan dengan stakeholder sosial dan kesehatan.
 
 ## Kata Kunci
-School retirement; Sistem informasi; Manajemen; Healthy food; Model Knowledge of Social Enterprise Engineering (KSEE); Teknologi IBM; Google Colab; AI
+School retirement; sistem informasi; manajemen; healthy food; Model Knowledge of Social Enterprise Engineering (KSEE); Teknologi IBM; Google Colab; AI
 
 ## Kode Program Capstone Project
 class Mahasiswa:
