@@ -497,6 +497,7 @@ Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook
 ## Referensi
 1. https://github.com/niit-ibm/lp1-cgo-lab1 
 2. https://github.com/niit-ibm/lp1-cgo-lab2
-3. ChatGPT
+3. https://informasi-anakutm.blogspot.com/2016/04/cara-membuat-crud-create-update-delete.html?m=1
+4. ChatGPT
 
 Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
