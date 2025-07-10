@@ -66,10 +66,6 @@ Sistem Informasi Manajemen Sekolah Berbasis AI dengan menggunakan Teknologi IBM 
 
 Tema: Pendataan Siswa Guna mendapatkan Makanan Sehat
 
-## Slide Presentasi untuk Capstone Project
-
-https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
-
 ## Penjelasan Presentasi
 Analisis ini akan membahas Sistem Informasi Manajemen Sekolah (SIMS) untuk pendataan siswa guna mendapatkan makanan sehat berbasis AI, dengan dukungan teknologi IBM dan Google Colab, dalam kerangka Knowledge of Social Enterprise Engineering (KSEE).
 
