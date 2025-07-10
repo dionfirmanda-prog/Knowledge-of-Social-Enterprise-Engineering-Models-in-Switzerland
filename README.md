@@ -116,7 +116,7 @@ Elemen KSEE dalam SIMS ini:
 🔄 5. Alur Sistem Informasi
 
 1. Input Data Siswa: via dashboard sekolah atau integrasi sistem Dapodik
-
+ 
 2. Proses AI:
 
 1. Model AI memproses data → rekomendasi makanan sehat
