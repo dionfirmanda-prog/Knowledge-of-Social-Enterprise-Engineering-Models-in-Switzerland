@@ -155,6 +155,9 @@ Elemen KSEE dalam SIMS ini:
 
 Sistem ini dapat menjadi solusi inovatif untuk intervensi gizi berbasis data. Dengan menggabungkan kekuatan AI (IBM & Google Colab) dan kerangka sosial KSEE, sekolah tidak hanya menjadi tempat belajar, tetapi juga pusat pemberdayaan kesehatan anak-anak. Disarankan untuk memulai pilot project di sekolah negeri yang telah memiliki sistem digital dasar dan menjalin kemitraan dengan stakeholder sosial dan kesehatan.
 
+## Kata Kunci
+School retirement, Sistem informasi, Manajemen, Healthy food, Model Knowledge of Social Enterprise Engineering (KSEE), Teknologi IBM, Google Colab, AI
+
 ## Kode Program Capstone Project
 class Mahasiswa:
 def __init__(self, nm, no_induk):
