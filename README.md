@@ -61,14 +61,99 @@ Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
 ![1000031899](https://github.com/user-attachments/assets/618628f8-5897-40ea-89ee-c34abc684d1a)
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
 
-## Judul Capstone Project: Sistem Informasi Manajemen Sekolah untuk Pendataan Mahasiswa Guna mendapatkan Makanan Sehat Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab
+## Judul Capstone Project: Sistem Informasi Manajemen Sekolah untuk Pendataan Siswa Guna mendapatkan Makanan Sehat Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab
 
 ## Slide Presentasi untuk Capstone Project
 
 https://github.com/user-attachments/assets/6eddd337-16f8-4556-b43f-b6fb20e4ef8e
 
-## Analisis Presentasi
-Model Knowledge of Social Enterprise Engineering (KSEE) di Swiss dalam konteks ekonomi yang tumbuh untuk manajemen bencana merupakan pendekatan inovatif yang menggabungkan kewirausahaan sosial, rekayasa sistem, dan manajemen pengetahuan untuk mengatasi tantangan sosial, termasuk bencana alam dan krisis kemanusiaan. Swiss, sebagai negara maju dengan ekosistem inovasi yang kuat, telah menerapkan model ini untuk mendorong solusi berkelanjutan terhadap bencana dan krisis melalui kolaborasi lintas sektor.
+## Penjelasan Presentasi
+Analisis ini akan membahas Sistem Informasi Manajemen Sekolah (SIMS) untuk pendataan siswa guna mendapatkan makanan sehat berbasis AI, dengan dukungan teknologi IBM dan Google Colab, dalam kerangka Knowledge of Social Enterprise Engineering (KSEE).
+
+🔍 1. Latar Belakang
+
+Permasalahan gizi buruk dan kurangnya kesadaran akan pola makan sehat di kalangan pelajar menjadi isu penting. Sekolah sebagai institusi sosial memiliki peran strategis untuk memastikan siswa menerima makanan sehat. Namun, keterbatasan sistem manual dalam pendataan dan pemantauan menjadikan proses ini tidak efisien.
+
+💡 2. Tujuan Sistem
+Mengembangkan Sistem Informasi Manajemen Sekolah (SIMS) berbasis AI untuk:
+
+1. Mengumpulkan dan mengelola data siswa (usia, tinggi, berat, alergi, preferensi makanan).
+2. Memberikan rekomendasi makanan sehat yang disesuaikan secara individual.
+3. Memastikan intervensi gizi berdasarkan data real-time.
+4. Menggunakan pendekatan KSEE untuk menciptakan dampak sosial berkelanjutan.
+
+⚙️ 3. Komponen Teknologi
+
+A. IBM Technology
+
+1. IBM Watson AI Services (Natural Language Processing, Machine Learning)
+2. IBM Cloud untuk hosting dan keamanan data
+3. IBM SPSS / Watson Studio untuk analisis prediktif gizi
+
+B. Google Colab
+
+1. Digunakan untuk prototyping model ML berbasis Python
+2. Menghubungkan ke dataset siswa, mengolah data, dan membuat visualisasi interaktif
+3. Memfasilitasi kolaborasi antar tim pengembang sosial (open source & gratis)
+
+🧠 4. Model Knowledge of Social Enterprise Engineering (KSEE)
+
+KSEE merupakan pendekatan yang menggabungkan:
+
+1. Knowledge Management (KM)
+2. Teknologi
+3. Social Impact
+4. Enterprise Process Engineering
+
+Elemen KSEE dalam SIMS ini:
+
+1. Elemen	Implementasi
+2. Knowledge	Data siswa (BMI, alergi, gizi) diolah menjadi knowledge berbasis AI
+3. Enterprise	Sekolah sebagai entitas sosial-entrepreneur mengelola layanan gizi
+4. Social Engineering	Program makanan sehat meningkatkan kualitas hidup siswa
+5. Technology	IBM Watson + Google Colab sebagai enabler sistem AI berbasis cloud
+
+🔄 5. Alur Sistem Informasi
+
+1. Input Data Siswa: via dashboard sekolah atau integrasi sistem Dapodik
+
+2. Proses AI:
+
+1. Model AI memproses data → rekomendasi makanan sehat
+2. Menggunakan IBM Watson untuk NLP & klasifikasi alergi
+3. Google Colab untuk training model dan evaluasi
+
+3. Output:
+
+1. Rekomendasi menu harian/individu
+2. Laporan gizi & perkembangan siswa
+3. Sistem alert untuk kasus risiko gizi
+
+📈 6. Keuntungan Sistem
+
+✅ Personalisasi menu makan siswa
+
+✅ Efisiensi dalam pengambilan keputusan gizi oleh sekolah
+
+✅ Integrasi dengan sistem kebijakan pemerintah (BPOM, Dinas Kesehatan)
+
+✅ Transparansi dan partisipasi orang tua
+
+✅ Potensi ekspansi ke komunitas & UMKM penyedia makanan sehat
+
+⚠️ 7. Tantangan Implementasi
+
+🔒 Keamanan & privasi data anak (harus sesuai dengan UU PDP)
+
+📶 Ketersediaan infrastruktur TIK di semua sekolah
+
+🧠 Kapasitas guru/operator sekolah dalam menggunakan sistem
+
+💰 Pendanaan awal untuk integrasi teknologi IBM Cloud
+
+✅ 8. Kesimpulan dan Rekomendasi
+
+Sistem ini dapat menjadi solusi inovatif untuk intervensi gizi berbasis data. Dengan menggabungkan kekuatan AI (IBM & Google Colab) dan kerangka sosial KSEE, sekolah tidak hanya menjadi tempat belajar, tetapi juga pusat pemberdayaan kesehatan anak-anak. Disarankan untuk memulai pilot project di sekolah negeri yang telah memiliki sistem digital dasar dan menjalin kemitraan dengan stakeholder sosial dan kesehatan.
 
 ## Kode Program Capstone Project
 class Mahasiswa:
@@ -412,5 +497,6 @@ Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook
 ## Referensi
 1. https://github.com/niit-ibm/lp1-cgo-lab1 
 2. https://github.com/niit-ibm/lp1-cgo-lab2
+3. ChatGPT
 
 Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
