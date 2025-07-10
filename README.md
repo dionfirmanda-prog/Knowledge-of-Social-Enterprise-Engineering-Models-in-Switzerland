@@ -497,10 +497,7 @@ Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data
 Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
 
 ## Referensi
-1. Harvard World Model United Nations 2024 Taipei
-2. https://github.com/niit-ibm/lp1-cgo-lab1 
-3. https://github.com/niit-ibm/lp1-cgo-lab2
-4. https://informasi-anakutm.blogspot.com/2016/04/cara-membuat-crud-create-update-delete.html?m=1
-5. Teknologi ChatGPT
+1. https://github.com/niit-ibm/lp1-cgo-lab1 
+2. https://github.com/niit-ibm/lp1-cgo-lab2
 
 Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
