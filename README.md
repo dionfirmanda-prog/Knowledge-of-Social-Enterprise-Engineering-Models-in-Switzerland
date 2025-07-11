@@ -12,6 +12,8 @@ Assalamualaikum warahmatullahi wa barakatuh.
 
 ![BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite](https://github.com/user-attachments/assets/2ff01afa-471a-4e75-89e2-d6613e374015)
 
+<img width="600" height="600" alt="1000033041" src="https://github.com/user-attachments/assets/c08c2784-295c-436f-a69f-deedf2581461" />
+
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
 ## Evaluasi Tes
