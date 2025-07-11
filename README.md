@@ -62,9 +62,7 @@ Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
 
 ## Judul Capstone Project: 
-Sistem Informasi Manajemen Sekolah Berbasis AI dengan menggunakan Teknologi IBM dan Google Colab 
-
-Tema: Pendataan Siswa Guna mendapatkan Makanan Sehat
+Knowledge of Social Enterprise-Engineering Models in Switzerland
 
 ## Penjelasan Presentasi
 Analisis ini akan membahas Sistem Informasi Manajemen Sekolah (SIMS) untuk pendataan siswa guna mendapatkan makanan sehat berbasis AI, dengan dukungan teknologi IBM dan Google Colab, dalam kerangka Knowledge of Social Enterprise Engineering (KSEE).
