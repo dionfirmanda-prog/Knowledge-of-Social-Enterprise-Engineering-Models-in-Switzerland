@@ -1,18 +1,3 @@
-![1000031003](https://github.com/user-attachments/assets/b14748de-7f0b-4ce3-816b-8ffedf273750)
-
-Assalamualaikum.
-
-## Tim pengerjaan
-![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
-
-![1000031533](https://github.com/user-attachments/assets/f902293a-d6bd-427b-bba3-8767658d2b1c)
-
-![1000031512](https://github.com/user-attachments/assets/e036e5c0-4a11-407d-8c15-93fd6be0412c)
-
-![BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite](https://github.com/user-attachments/assets/2ff01afa-471a-4e75-89e2-d6613e374015)
-
-Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
-
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
 
@@ -74,9 +59,3 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ![1000030271](https://github.com/user-attachments/assets/90e4b2e0-a4a3-4e12-8bbd-f3ac9caadddc)
 ![1000030270](https://github.com/user-attachments/assets/e0aa5211-f9dd-4747-8a27-8af6a8b4bc8e)
 ![1000030269](https://github.com/user-attachments/assets/5e7ca224-0d87-432d-9594-9a091bb4b9ee)
-
-## Referensi
-1. https://github.com/niit-ibm/lp1-cgo-lab1 
-2. https://github.com/niit-ibm/lp1-cgo-lab2
-
-Terima kasih atas penilaiannya. Wassalamu'alaikum.
