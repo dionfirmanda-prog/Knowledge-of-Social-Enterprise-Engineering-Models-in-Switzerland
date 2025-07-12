@@ -43,84 +43,6 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ![1000030252](https://github.com/user-attachments/assets/557b1eeb-97f9-4bdc-b3aa-e66e431ca5e2)
 ![1000030251](https://github.com/user-attachments/assets/84752d67-b741-4c51-876f-d3dd1840d8e5)
 
-## Kesimpulan
-Gambar ini memperlihatkan bagian lain dari notebook yang berbeda (sd_learn_cgo_lab1.ipynb) dibanding sebelumnya (lab2). Berikut analisisnya:
-
-📄 Konten Teks dalam Gambar:
-
-Ini adalah deskripsi singkat beberapa novel klasik, kemungkinan digunakan sebagai data mentah atau sumber informasi yang akan diproses atau ditampilkan di lab2. Isi ringkasannya:
-
-1. The Great Gatsby
-
-Penulis: F. Scott Fitzgerald
-
-Tema: Kehidupan dekaden di era Roaring Twenties (Jay Gatsby dan Daisy Buchanan)
-
-
-
-2. Pride and Prejudice
-
-Penulis: Tidak disebutkan (tetapi diketahui: Jane Austen)
-
-Tema: Romansa Mary dan Elizabeth Bennet di era Regency Inggris
-
-
-
-3. The Hobbit
-
-Penulis: J.R.R. Tolkien
-
-Diterbitkan: 1937
-
-Genre: Fantasi
-
-
-
-4. The Lord of the Rings
-
-Penulis: J.R.R. Tolkien
-
-Genre: Fantasi epik
-
-
-
-5. Animal Farm
-
-Penulis: George Orwell
-
-Diterbitkan: 1945
-
-Genre: Satir politik terhadap Uni Soviet
-
-
-
-6. Brave New World
-
-Penulis: Aldous Huxley
-
-Diterbitkan: 1932
-
-Genre: Distopia fiksi ilmiah (deskripsi ini belum selesai di tangkapan layar)
-
-🔗 Keterkaitan dengan Gambar Sebelumnya (lab2)
-
-Gambar ini (lab1) kemungkinan merupakan:
-
-Sumber data atau deskripsi teks yang dipakai untuk membuat tampilan daftar buku seperti di lab2.
-
-Contoh pemrosesan data ke UI: dari teks deskriptif → menjadi kartu interaktif dengan judul, penulis, dan harga.
-
-💡 Saran:
-
-1. Minta bantuan untuk mengonversi data deskriptif ini jadi struktur JSON atau DataFrame.
-
-2. Menambahkan fitur search, filter, atau urutkan di tampilan kartu.
-
-3. Minta kode Python-nya untuk render buku sebagai kartu dengan Streamlit, Gradio, atau IPyWidgets.
-
-5. Membuat kode Python-nya dan ubah teks ini jadi tabel atau JSON.
-
-
 # **Latihan Lab 2: Mengoptimalkan Kode yang Dihasilkan AI Menggunakan Model IBM Granite**
 
 ## **Pendahuluan** 
@@ -153,71 +75,8 @@ Lab ini mengharuskan Anda untuk menyelesaikan langkah-langkah berikut:
 ![1000030270](https://github.com/user-attachments/assets/e0aa5211-f9dd-4747-8a27-8af6a8b4bc8e)
 ![1000030269](https://github.com/user-attachments/assets/5e7ca224-0d87-432d-9594-9a091bb4b9ee)
 
-
-## Kesimpulan
-Gambar ini adalah tangkapan layar dari antarmuka pengguna (kemungkinan dari Google Colab atau Jupyter Notebook di Google Colab, terlihat dari URL dan nama file .ipynb) yang menampilkan daftar buku dalam format kartu (card layout). Berikut adalah hasil analisisnya:
-
-📋 Konten yang Ditampilkan:
-
-Terdapat daftar buku, masing-masing dengan informasi berikut:
-
-Judul Buku
-
-Nama Penulis
-
-Harga Buku
-
-
-Contoh isi:
-
-1. The Hobbit
-
-Author: Author Name 3
-
-Price: $30.00
-
-
-
-2. The Lord of the Rings
-
-Author: Author Name 4
-
-Price: $40.00
-
-
-
-3. Animal Farm
-
-Author: Author Name 5
-
-Price: $50.00
-
-
-
-4. Brave New World (sebagian terlihat di bawah)
-
-🧩 Komponen UI yang Terlihat:
-
-Kartu (card) untuk setiap buku (desain modern, responsif).
-
-Simbol filter di sebelah kiri atas (mungkin untuk menyaring daftar buku).
-
-UI Google Colab:
-
-Nama file: sd_learn_cgo_lab2.ipynb
-
-Status RAM dan Disk di bagian atas.
-
-Mode tampilan notebook (ada toolbar colab).
-
-💡 Interpretasi Kemungkinan:
-
-Ini adalah bagian dari proyek pembelajaran (lab atau demo) yang menampilkan data buku dalam format visual berbasis komponen frontend (kemungkinan menggunakan Gradio, Streamlit, atau IPyWidgets di Jupyter Notebook).
-
-Bisa jadi ini adalah hasil rendering model atau data dari Python script/notebook.
-
 ## Referensi
 1. https://github.com/niit-ibm/lp1-cgo-lab1 
 2. https://github.com/niit-ibm/lp1-cgo-lab2
 
-Terima kasih atas penilaiannya. Wassalamu'alaikum warahmatullahi wa barakatuh.
+Terima kasih atas penilaiannya. Wassalamu'alaikum.
