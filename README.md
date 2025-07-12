@@ -1,7 +1,9 @@
 ![1000031003](https://github.com/user-attachments/assets/b14748de-7f0b-4ce3-816b-8ffedf273750)
 
+Assalamualaikum.
 
-Assalamualaikum warahmatullahi wa barakatuh.
+Nama Peserta: Dion Firmanda
+Asal Instansi: Politeknik Elektronika Negeri Surabaya-ITS
 
 ## Tim pengerjaan
 ![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
@@ -13,6 +15,9 @@ Assalamualaikum warahmatullahi wa barakatuh.
 ![BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite](https://github.com/user-attachments/assets/2ff01afa-471a-4e75-89e2-d6613e374015)
 
 <img width="600" height="600" alt="1000033041" src="https://github.com/user-attachments/assets/c08c2784-295c-436f-a69f-deedf2581461" />
+
+<img width="600" height="600" alt="1000033152" src="https://github.com/user-attachments/assets/aff7c211-c20f-4fe3-94ad-6475498fe1b3" />
+
 
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
