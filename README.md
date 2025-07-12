@@ -2,10 +2,6 @@
 
 Assalamualaikum.
 
-Nama Peserta: Dion Firmanda
-
-Asal Instansi: Politeknik Elektronika Negeri Surabaya-ITS
-
 ## Tim pengerjaan
 ![1000030739](https://github.com/user-attachments/assets/379d8831-d403-400b-b452-65213ef64897)
 
@@ -22,146 +18,8 @@ Asal Instansi: Politeknik Elektronika Negeri Surabaya-ITS
 
 Saya baru saja menyelesaikan pelatihan AI dari Hacktiv8 dan IBM SkillsBuild! Program ini benar-benar ngebuka wawasan saya tentang bagaimana AI bisa bantu proses coding, mulai dari code generation sampai optimasi. Lewat materi yang praktis dan pembimbingan langsung dari instruktur, saya jadi makin percaya diri buat masuk ke dunia kerja dengan skill yang relevan. Sekarang, saya resmi tersertifikasi dalam topik Code Generation & Optimization using IBM Granite. Buat teman-teman yang masih mahasiswa dan pengen upgrade skill sambil kuliah, saya sangat merekomendasikan program ini! Cek kelas terdekatnya daftar segera di my.hacktiv8.com/ibmskillsbuild #Hacktiv8 #IBMSkillsBuild #AIuntukSemua #MahasiswaSiapKerja #StudentDevelopmentInitiative #GenerativeAI
 
-## Evaluasi Tes
-1. Tugas Pendahuluan (Class Preparation) (Selesai)
-2. Pre-test Code (Selesai)
-3. Post-test Code (Selesai)
-4. Pre-test Materi 2 (Selesai)
-5. Post-test Materi-3 (Selesai)
-6. Latihan Lab1 (Selesai)
-7. Latihan Lab2 (Selesai)
-8. Tugas Capstone Project (Selesai)
-9. Upload ke Twibbonize (Selesai)
-10. Share badge ke LinkedIn (Selesai)
-
-## Tugas Pendahuluan (Class Preparation)
-
-Tugas Pendahuluan 1: Membuat akun Twibbonize: https://www.twibbonize.com/p/LbDDy3pgNlr4rtk8#google_vignette
-
-![1000031381](https://github.com/user-attachments/assets/85966c0f-b571-466c-9fe8-c4072f2689bc)
-
-Tugas Pendahuluan 2: Membuat akun Credly: https://www.credly.com/users/dion-firmanda.6525f296
-
-![1000031379](https://github.com/user-attachments/assets/30e275f4-997d-4ba4-8918-0c5581bcb10e)
-
-Tugas Pendahuluan 3: Membuat akun IBM SkillsBuild: https://skills.yourlearning.ibm.com/
-
-![1000031380](https://github.com/user-attachments/assets/1c4221ba-d5c3-4c79-9917-c032361f711b)
-
-Tugas Pendahuluan 4: Membuat akun Replicate: https://replicate.com/
-
-![1000031382](https://github.com/user-attachments/assets/679179cf-5c47-4c73-b5b3-1687a0534442)
-
-Tugas Pendahuluan 5: Membuat akun Google Colab: https://colab.research.google.com/drive/1RiIBE2MR8vEe2cblyLumtB6p_X2X0OWG?authuser=0
-
-![1000031383](https://github.com/user-attachments/assets/bfc9a4c4-a041-4f34-98c5-ce324637709f)
-
-Tugas Pendahuluan 6: Membuat akun Github: https://github.com/dionfirmanda-prog/Knowledge-of-Social-Enterprise-Engineering-Models-in-Switzerland
-
-![1000031387](https://github.com/user-attachments/assets/a3f031b0-a3c3-4649-8205-b7b0d159bd3a)
-
-Tugas Pendahuluan 7: Membuat akun LinkedIn: https://www.linkedin.com/in/dion-firmanda-3b1861373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-![1000031606](https://github.com/user-attachments/assets/0b6e2561-2eca-4459-96a5-4a5ea6167daf)
-
-Tugas Pendahuluan 8: Membuat akun zoom workplace: https://app.zoom.us/wc
-
 ![1000031899](https://github.com/user-attachments/assets/618628f8-5897-40ea-89ee-c34abc684d1a)
 ![1000031900](https://github.com/user-attachments/assets/455cd419-1588-42a5-8709-22e158f4cb7e)
-
-## Judul Capstone Project: 
-Knowledge of Social Enterprise-Engineering Models in Switzerland
-
-## Penjelasan Presentasi
-Analisis ini akan membahas Sistem Informasi Manajemen Sekolah (SIMS) untuk pendataan siswa guna mendapatkan makanan sehat berbasis AI, dengan dukungan teknologi IBM dan Google Colab, dalam kerangka Knowledge of Social Enterprise Engineering (KSEE).
-
-🔍 1. Latar Belakang
-
-Permasalahan gizi buruk dan kurangnya kesadaran akan pola makan sehat di kalangan pelajar menjadi isu penting. Sekolah sebagai institusi sosial memiliki peran strategis untuk memastikan siswa menerima makanan sehat. Namun, keterbatasan sistem manual dalam pendataan dan pemantauan menjadikan proses ini tidak efisien.
-
-💡 2. Tujuan Sistem
-Mengembangkan Sistem Informasi Manajemen Sekolah (SIMS) berbasis AI untuk:
-
-1. Mengumpulkan dan mengelola data siswa (usia, tinggi, berat, alergi, preferensi makanan).
-2. Memberikan rekomendasi makanan sehat yang disesuaikan secara individual.
-3. Memastikan intervensi gizi berdasarkan data real-time.
-4. Menggunakan pendekatan KSEE untuk menciptakan dampak sosial berkelanjutan.
-
-⚙️ 3. Komponen Teknologi
-
-A. IBM Technology
-
-1. IBM Watson AI Services (Natural Language Processing, Machine Learning)
-2. IBM Cloud untuk hosting dan keamanan data
-3. IBM SPSS / Watson Studio untuk analisis prediktif gizi
-
-B. Google Colab
-
-1. Digunakan untuk prototyping model ML berbasis Python
-2. Menghubungkan ke dataset siswa, mengolah data, dan membuat visualisasi interaktif
-3. Memfasilitasi kolaborasi antar tim pengembang sosial (open source & gratis)
-
-🧠 4. Model Knowledge of Social Enterprise Engineering (KSEE)
-
-KSEE merupakan pendekatan yang menggabungkan:
-
-1. Knowledge Management (KM)
-2. Teknologi
-3. Social Impact
-4. Enterprise Process Engineering
-
-Elemen KSEE dalam SIMS ini:
-
-1. Elemen	Implementasi
-2. Knowledge	Data siswa (BMI, alergi, gizi) diolah menjadi knowledge berbasis AI
-3. Enterprise	Sekolah sebagai entitas sosial-entrepreneur mengelola layanan gizi
-4. Social Engineering	Program makanan sehat meningkatkan kualitas hidup siswa
-5. Technology	IBM Watson + Google Colab sebagai enabler sistem AI berbasis cloud
-
-🔄 5. Alur Sistem Informasi
-
-1. Input Data Siswa: via dashboard sekolah atau integrasi sistem Dapodik
- 
-2. Proses AI:
-
-1. Model AI memproses data → rekomendasi makanan sehat
-2. Menggunakan IBM Watson untuk NLP & klasifikasi alergi
-3. Google Colab untuk training model dan evaluasi
-
-3. Output:
-
-1. Rekomendasi menu harian/individu
-2. Laporan gizi & perkembangan siswa
-3. Sistem alert untuk kasus risiko gizi
-
-📈 6. Keuntungan Sistem
-
-✅ Personalisasi menu makan siswa
-
-✅ Efisiensi dalam pengambilan keputusan gizi oleh sekolah
-
-✅ Integrasi dengan sistem kebijakan pemerintah (BPOM, Dinas Kesehatan)
-
-✅ Transparansi dan partisipasi orang tua
-
-✅ Potensi ekspansi ke komunitas & UMKM penyedia makanan sehat
-
-⚠️ 7. Tantangan Implementasi
-
-🔒 Keamanan & privasi data anak (harus sesuai dengan UU PDP)
-
-📶 Ketersediaan infrastruktur TIK di semua sekolah
-
-🧠 Kapasitas guru/operator sekolah dalam menggunakan sistem
-
-💰 Pendanaan awal untuk integrasi teknologi IBM Cloud
-
-✅ 8. Kesimpulan dan Rekomendasi
-
-Sistem ini dapat menjadi solusi inovatif untuk intervensi gizi berbasis data. Dengan menggabungkan kekuatan AI (IBM & Google Colab) dan kerangka sosial KSEE, sekolah tidak hanya menjadi tempat belajar, tetapi juga pusat pemberdayaan kesehatan anak-anak. Disarankan untuk memulai pilot project di sekolah negeri yang telah memiliki sistem digital dasar dan menjalin kemitraan dengan stakeholder sosial dan kesehatan.
-
-## Kata Kunci
-School retirement; sistem informasi; manajemen; healthy food; Model Knowledge of Social Enterprise Engineering (KSEE); Teknologi IBM; Google Colab; AI
 
 ## Kode Program Capstone Project
 class Mahasiswa:
@@ -248,56 +106,6 @@ elif menu == 0:
 else:
 
   print("XXXX");
-  
-## Penjelasan tentang Capstone Project
-
-![1000031731](https://github.com/user-attachments/assets/c651cbd7-99de-4b7a-adb6-5a5d59f1aa7a)
-
-Proyek ini adalah aplikasi manajemen data mahasiswa sederhana berbasis teks, yang dikembangkan menggunakan bahasa pemrograman Python di lingkungan Jupyter Notebook.
-
-📝 Fungsi Utama Aplikasi:
-
-Aplikasi ini menyediakan menu interaktif untuk:
-
-1. Menambah mahasiswa (input nama dan NIM)
-
-
-2. Menghapus mahasiswa berdasarkan NIM
-
-
-3. Menampilkan semua data mahasiswa
-
-
-4. Mencari mahasiswa berdasarkan NIM
-
-
-5. Mengedit nama mahasiswa
-
-
-6. Mengedit NIM mahasiswa
-
-
-7. Menampilkan total jumlah mahasiswa
-
-
-8. Keluar dari aplikasi
-
-
-
-🎯 Tujuan Proyek:
-
-Melatih logika pemrograman dasar seperti:
-
-1. Input/output
-
-2. List dan struktur data
-
-3. Perulangan (while)
-
-4. Percabangan (if-else)
-
-
-Proyek ini cocok untuk pemula sebagai latihan CRUD (Create, Read, Update, Delete) sederhana di Python.
 
 ## **Latihan Lab Pembuatan Kode menggunakan Model Kode Granite**
 Gunakan Model IBM Granite untuk Pembuatan Kode dan Tugas Pemrograman
